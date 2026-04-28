@@ -4,7 +4,6 @@ aiosignal==1.4.0
 alabaster==0.7.16
 alembic==1.16.5
 altair==5.5.0
-altgraph @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 annotated-types==0.7.0
 anyio==4.12.1
 arrow==1.4.0
@@ -53,7 +52,6 @@ free_proxy==1.1.3
 frozenlist==1.8.0
 fsspec==2025.10.0
 fulltext-article-downloader @ git+https://github.com/computron/fulltext-article-downloader.git@5d815921bda34cc7501a0c46f686c1aef7088fe8
-future @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 geographiclib==2.1
 geopy==2.4.1
 gitdb==4.0.12
@@ -83,7 +81,6 @@ litellm==1.83.9
 llama-optimus==0.1.9
 lxml==6.0.4
 lz4==4.4.5
-macholib @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 Mako==1.3.11
 MarkupSafe==3.0.3
 matplotlib==3.9.4
@@ -152,7 +149,6 @@ semanticscholar==0.11.0
 sentencepiece==0.2.1
 sgmllib3k==1.0.0
 simple-loggers==1.0.5
-six @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 smmap==5.0.3
 sniffio==1.3.1
 snowballstemmer==3.0.1
