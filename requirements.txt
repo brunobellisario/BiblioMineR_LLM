@@ -9,3 +9,4 @@ lxml
 requests
 litellm
 fulltext-article-downloader @ git+https://github.com/computron/fulltext-article-downloader.git
+cloudscraper
