@@ -1,0 +1,2574 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378112720312056</prism:url><dc:identifier>doi:10.1016/j.foreco.2020.118436</dc:identifier><eid>1-s2.0-S0378112720312056</eid><prism:doi>10.1016/j.foreco.2020.118436</prism:doi><pii>S0378-1127(20)31205-6</pii><dc:title>Using lichen communities as indicators of forest stand age and conservation value </dc:title><prism:publicationName>Forest Ecology and Management</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03781127</prism:issn><prism:volume>475</prism:volume><prism:startingPage>118436</prism:startingPage><prism:pageRange>118436</prism:pageRange><articleNumber>118436</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-11-01</prism:coverDate><prism:coverDisplayDate>1 November 2020</prism:coverDisplayDate><prism:copyright>© 2020 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Miller, Jesse E.D.</dc:creator><dc:creator>Villella, John</dc:creator><dc:creator>Stone, Daphne</dc:creator><dc:creator>Hardman, Amanda</dc:creator><dc:description>
+                  Evaluating the conservation value of ecological communities is critical for forest management but can be challenging because it is difficult to survey all taxonomic groups of conservation concern. Lichens have long been used as indicators of late successional habitats with particularly high conservation value because lichens are ubiquitous, sensitive to fine-scale environmental variation, and some species require old substrates. However, the efficacy of such lichen indicator systems has rarely been tested beyond narrow geographic areas, and their reliability has not been established with well-replicated quantitative research. Here, we develop a continuous lichen conservation index representing epiphytic macrolichen species affinities for late successional forests in the Pacific Northwest, USA. This index classifies species based on expert field experience and is similar to the “coefficient of conservatism” that is widely used for evaluating vascular plant communities in the central and eastern USA. We then use a large forest survey dataset to test whether the community-level lichen conservation index is related to forest stand age. We find that the lichen conservation index has a positive, linear relationship with forest stand age. In contrast, lichen species richness has only a weak, unimodal relationship with forest stand age, and a binary indicator approach (where species are assigned as either old growth forest indicators or not) has a substantially weaker relationship with forest stand age than the continuous lichen conservation index. Our findings highlight that lichen communities can be useful indicators of late successional habitats of conservation concern at a regional scale. Quantitative lichen indicator systems provide unique information about habitat conservation value that is not captured by traditional community metrics such as lichen species richness. More broadly, indicator systems based on expert experience can have strong biological relevance.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Bioindicators</dcterms:subject><dcterms:subject>Conservation</dcterms:subject><dcterms:subject>Epiphytes</dcterms:subject><dcterms:subject>Floristic quality analysis</dcterms:subject><dcterms:subject>Indicator species</dcterms:subject><dcterms:subject>Forest Inventory and Analysis</dcterms:subject><dcterms:subject>Lichens</dcterms:subject><dcterms:subject>Oregon</dcterms:subject><dcterms:subject>Washington</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378112720312056" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378112720312056" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="622" height="559" size="104919">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="622" height="218" size="25310">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="343" size="20474">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="182" height="164" size="11480">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="4670">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="180" height="163" size="6175">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2756" height="2476" size="551133">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2756" height="964" size="153088">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1572" height="1427" size="110776">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="51424">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="mmc2" category="standard" type="APPLICATION" multimediatype="Microsoft Excel file" mimetype="application/excel" size="20266">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-mmc2.xlsx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="711785">https://api.elsevier.com/content/object/eid/1-s2.0-S0378112720312056-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85088631455</scopus-id><scopus-eid>2-s2.0-85088631455</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85088631455" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271259</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291840</xocs:ssid>
+         <xocs:ssid type="subj">291841</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Forest Ecology and Management</xocs:srctitle>
+      <xocs:normalized-srctitle>FORESTECOLOGYMANAGEMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200728">2020-07-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200728">2020-07-28</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200728">2020-07-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200728">2020-07-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-12-08T18:55:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378112720312056</xocs:eid>
+      <xocs:pii-formatted>S0378-1127(20)31205-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378112720312056</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.foreco.2020.118436</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378112720X00168</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201208">2020-12-08T22:21:01.797884Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20201101</xocs:date-search-begin>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1595946918">2020-07-28T14:35:18.045188Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-1127</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03781127</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>475</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>475</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 475</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>118436</xocs:first-fp>
+      <xocs:article-number>118436</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>118436</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20201101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 November 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-11-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Length Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>USINGLICHENCOMMUNITIESINDICATORSFORESTSTANDAGECONSERVATIONVALUE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MILLER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Development of the lichen conservation index</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Testing the index with empirical data</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author contributions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>ALLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3138</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>ARSENAULT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>730</xocs:ref-first-fp>
+            <xocs:ref-last-lp>738</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>BACKLUND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>BAUER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>BERRYMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>BRIED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>222</xocs:ref-first-fp>
+            <xocs:ref-last-lp>228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>CAMPBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>970</xocs:ref-first-fp>
+            <xocs:ref-last-lp>982</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="optNHbQnGIzrx">
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040"/>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>ESSLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>102</xocs:ref-first-fp>
+            <xocs:ref-last-lp>378</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050"/>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>GIORDANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>413</xocs:ref-first-fp>
+            <xocs:ref-last-lp>420</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060"/>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>JANSSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>370</xocs:ref-first-fp>
+            <xocs:ref-last-lp>371</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>91</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075"/>
+         <xocs:ref-info refid="h0080"/>
+         <xocs:ref-info refid="h0085"/>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>LIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3579</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3596</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>MATTHEWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2093</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>MATTHEWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>MCCUNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>MCCUNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MACROLICHENSPACIFICNORTHWEST</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>MCMULLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>MILLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>196</xocs:ref-first-fp>
+            <xocs:ref-last-lp>201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>MILLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>415</xocs:ref-first-fp>
+            <xocs:ref-last-lp>425</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>MOLINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>306</xocs:ref-first-fp>
+            <xocs:ref-last-lp>318</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>MONING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>745</xocs:ref-first-fp>
+            <xocs:ref-last-lp>751</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>NASCIMBENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>360</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>NASCIMBENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1509</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1522</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>NASCIMBENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-last-lp>38</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>PETERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>RCORETEAM</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>ROSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>307</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LICHENOLOGYPROGRESSPROBLEMS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LICHENOLOGICALINDICATORSAGEENVIRONMENTALCONTINUITYINWOODLANDS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>ROSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>79</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0175">
+            <xocs:ref-normalized-surname>ROSSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0180">
+            <xocs:ref-normalized-surname>SELVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>550</xocs:ref-first-fp>
+            <xocs:ref-last-lp>558</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0185">
+            <xocs:ref-normalized-surname>SIVICEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1258</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0190">
+            <xocs:ref-normalized-surname>SPYREAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>e02825</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0195">
+            <xocs:ref-normalized-surname>SPYREAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-last-lp>348</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0200">
+            <xocs:ref-normalized-surname>SWINK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PLANTSCHICAGOREGION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0205">
+            <xocs:ref-normalized-surname>TIBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>427</xocs:ref-first-fp>
+            <xocs:ref-last-lp>450</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0210">
+            <xocs:ref-normalized-surname>VELDMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0215">
+            <xocs:ref-normalized-surname>VILLELLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0220">
+            <xocs:ref-normalized-surname>WIERSMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>371</xocs:ref-first-fp>
+            <xocs:ref-last-lp>373</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0225">
+            <xocs:ref-normalized-surname>WILLWOLF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>184</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0230">
+            <xocs:ref-normalized-surname>WOLSELEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MILLERX2020X118436</xocs:refkey3>
+         <xocs:refkey4ai>MILLERX2020X118436XJ</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-07-28T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-07-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-07-31T22:09:18.514Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp-car</xocs:funding-addon-type>
+         <xocs:funding-text>We thank Peter Nelson and Linda Geiser for helping us access and understand the National Forest Lichen Air Quality Monitoring Program data set. We are grateful to Tom Carlberg for assistance with this project, and we thank the Fukami lab at Stanford for early feedback on the project. We also thank Trevor Goward for valuable comments on an early draft of the manuscript. Finally, we acknoweledge the numerous surveyors whose work under the Survey and Manage program has greatly enhanced our knowledge of lichens in the Pacific Northwest.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-1127(20)31205-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378112720312056</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378112720312056</xocs:eid>
+         <xocs:doi>10.1016/j.foreco.2020.118436</xocs:doi>
+         <xocs:cid>271259</xocs:cid>
+         <xocs:timestamp>2020-12-08T22:21:01.797884Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-11-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/MAIN/application/pdf/5c61f911779708f48355ab399dba4cab/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1212780</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378112720312056-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/PREVIEW/image/png/8aa48097e51798811c29c768229a9148/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53179</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr2/DOWNSAMPLED/image/jpeg/0621fb6c641c3dc1304c60f33d5b3cf4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>104919</xocs:filesize>
+               <xocs:pixel-height>559</xocs:pixel-height>
+               <xocs:pixel-width>622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr3/DOWNSAMPLED/image/jpeg/45ba1ae06cb59234b674480e19ad3edd/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25310</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr1/DOWNSAMPLED/image/jpeg/6f18949fa94614f6ec16c680a9815fc2/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20474</xocs:filesize>
+               <xocs:pixel-height>343</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr2/THUMBNAIL/image/gif/4ffe912274a276e649dc04332b8ebbde/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11480</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>182</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr3/THUMBNAIL/image/gif/fff9fc12a0c69ced7355a7f51d5ac33e/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4670</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr1/THUMBNAIL/image/gif/f86f8b101508502c09dff0c2caeacf41/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6175</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>180</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr2/HIGHRES/image/jpeg/c5a9c197878d4264db3b33d3162e4790/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>551133</xocs:filesize>
+               <xocs:pixel-height>2476</xocs:pixel-height>
+               <xocs:pixel-width>2756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr3/HIGHRES/image/jpeg/f8c70bb765af5073c69246b7acb36f2a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153088</xocs:filesize>
+               <xocs:pixel-height>964</xocs:pixel-height>
+               <xocs:pixel-width>2756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/gr1/HIGHRES/image/jpeg/1d25ec09868fc4c252cac770afecffa5/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110776</xocs:filesize>
+               <xocs:pixel-height>1427</xocs:pixel-height>
+               <xocs:pixel-width>1572</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/06cbb735791960c5fac2afbae043c56f/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>51424</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-mmc2.xlsx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378112720312056/mmc2/MAIN/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet/1dd0bb4bdb1f5692ee939babba7ffc48/mmc2.xlsx</xocs:ucs-locator>
+               <xocs:file-basename>mmc2</xocs:file-basename>
+               <xocs:filename>mmc2.xlsx</xocs:filename>
+               <xocs:extension>xlsx</xocs:extension>
+               <xocs:filesize>20266</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378112720312056-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10191R93GBC/MAIN/application/pdf/bb1af1ac5fcb9f9e2c5b24d0ccbc06ae/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>711785</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>FORECO</jid>
+            <aid>118436</aid>
+            <ce:article-number>118436</ce:article-number>
+            <ce:pii>S0378-1127(20)31205-6</ce:pii>
+            <ce:doi>10.1016/j.foreco.2020.118436</ce:doi>
+            <ce:copyright type="unknown" year="2020"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0010" view="all">The average stand age where lichen species occurred in the field plots increased with increasing lichen conservation index rankings. This analysis included species that occurred at five or more plots.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00005" locator="gr1" xlink:href="pii:S0378112720312056/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0015" view="all">Relationship between estimated stand age and lichen community metrics in low elevation (&lt;1000 m) forests in the Cascade Range of Oregon and Washington, USA. All relationships shown are significant (P &lt; 0.01). These simple bivariate relationships do not account for environmental variables; note that the relationship between stand age and the mean lichen conservation index becomes stronger after accounting for elevation and precipitation (<ce:cross-ref id="c0005" refid="f0015">Fig. 3</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00010" locator="gr2" xlink:href="pii:S0378112720312056/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0020" view="all">Model effects of predictors of the plot-level lichen conservation index across all study plots (including high elevation plots). Annual precipitation has a significant (P &lt; 0.001) but relatively weak, hump-shaped relationship with the lichen conservation index. Stand age has a strong, significant effect on the average lichen conservation index at low elevations, but this relationship weakens with increasing elevation, and disappears at the highest elevations (P &lt; 0.001 for interaction between stand age and elevation).</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00015" locator="gr3" xlink:href="pii:S0378112720312056/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Using lichen communities as indicators of forest stand age and conservation value</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0378112720312056-7967dbb5d3d5515bc756aab8126c0fbc">
+                  <ce:given-name>Jesse E.D.</ce:given-name>
+                  <ce:surname>Miller</ce:surname>
+                  <ce:cross-ref id="c0010" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0015" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S0378112720312056-203bef6f13fdf052792c8a56692d3156">
+                  <ce:given-name>John</ce:given-name>
+                  <ce:surname>Villella</ce:surname>
+                  <ce:cross-ref id="c0020" refid="af010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0378112720312056-6b8081219ca7a1bd796c533bd98a89d1">
+                  <ce:given-name>Daphne</ce:given-name>
+                  <ce:surname>Stone</ce:surname>
+                  <ce:cross-ref id="c0025" refid="af015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S0378112720312056-1540206de6786e3204837a8541334907">
+                  <ce:given-name>Amanda</ce:given-name>
+                  <ce:surname>Hardman</ce:surname>
+                  <ce:cross-ref id="c0030" refid="af020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0378112720312056-77573230874546d591e5f192cba7e819">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Biology, Stanford University, Stanford, CA 94305, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Biology</sa:organization>
+                     <sa:organization>Stanford University</sa:organization>
+                     <sa:city>Stanford</sa:city>
+                     <sa:state>CA</sa:state>
+                     <sa:postal-code>94305</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Department of Biology, Stanford University, Stanford, CA 94305, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S0378112720312056-0e4b4d0fb5fe9aa8b1d7bf4cfaeaaedc">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Siskiyou Biosurvey, LLC., Eagle Point, OR 97524, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Siskiyou Biosurvey, LLC.</sa:organization>
+                     <sa:city>Eagle Point</sa:city>
+                     <sa:state>OR</sa:state>
+                     <sa:postal-code>97524</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Siskiyou Biosurvey, LLC., Eagle Point, OR 97524, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S0378112720312056-b41b17d576b4e247c2242b3d3347da3a">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Stone Ecosurveys LLC, Eugene, OR 97405, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Stone Ecosurveys LLC</sa:organization>
+                     <sa:city>Eugene</sa:city>
+                     <sa:state>OR</sa:state>
+                     <sa:postal-code>97405</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">Stone Ecosurveys LLC, Eugene, OR 97405, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af020" affiliation-id="S0378112720312056-809434302c7f14850819a62b59ded3fc">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>US Forest Service, John Day, OR 97845, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>US Forest Service</sa:organization>
+                     <sa:city>John Day</sa:city>
+                     <sa:state>OR</sa:state>
+                     <sa:postal-code>97845</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx020">US Forest Service, John Day, OR 97845, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="10" month="6" year="2020"/>
+            <ce:date-revised day="11" month="7" year="2020"/>
+            <ce:date-accepted day="13" month="7" year="2020"/>
+            <ce:abstract class="author" id="ab005" xml:lang="en" view="all"><ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">Evaluating the conservation value of ecological communities is critical for forest management but can be challenging because it is difficult to survey all taxonomic groups of conservation concern. Lichens have long been used as indicators of late successional habitats with particularly high conservation value because lichens are ubiquitous, sensitive to fine-scale environmental variation, and some species require old substrates. However, the efficacy of such lichen indicator systems has rarely been tested beyond narrow geographic areas, and their reliability has not been established with well-replicated quantitative research. Here, we develop a continuous lichen conservation index representing epiphytic macrolichen species affinities for late successional forests in the Pacific Northwest, USA. This index classifies species based on expert field experience and is similar to the “coefficient of conservatism” that is widely used for evaluating vascular plant communities in the central and eastern USA. We then use a large forest survey dataset to test whether the community-level lichen conservation index is related to forest stand age. We find that the lichen conservation index has a positive, linear relationship with forest stand age. In contrast, lichen species richness has only a weak, unimodal relationship with forest stand age, and a binary indicator approach (where species are assigned as either old growth forest indicators or not) has a substantially weaker relationship with forest stand age than the continuous lichen conservation index. Our findings highlight that lichen communities can be useful indicators of late successional habitats of conservation concern at a regional scale. Quantitative lichen indicator systems provide unique information about habitat conservation value that is not captured by traditional community metrics such as lichen species richness. More broadly, indicator systems based on expert experience can have strong biological relevance.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st010">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Bioindicators</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Conservation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Epiphytes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Floristic quality analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Indicator species</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0030">
+                  <ce:text>Forest Inventory and Analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0035">
+                  <ce:text>Lichens</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0040">
+                  <ce:text>Oregon</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0045">
+                  <ce:text>Washington</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Land managers around the globe are tasked with conserving biodiversity, and must evaluate the conservation value of ecological communities to develop conservation plans. Managers frequently seek to identify the extent to which communities contain species with affinities for undisturbed, late-successional habitats, since these are often the most imperiled species in contemporary landscapes that have largely been altered by anthropogenic activities (<ce:cross-refs id="r0005" refid="b0190 b0210">Spyreas, 2019; Veldman et al., 2015</ce:cross-refs>). Quantifying the conservation value of habitats for late successional species can allow managers to evaluate the results of management practices and may facilitate the comparison of different areas or land parcels. However, simple ecological metrics such as species richness or environmental variables may not reliably indicate variation in biodiversity and conservation value, and additional tools are needed to help managers efficiently evaluate communities (<ce:cross-refs id="r0010" refid="b0020 b0095">Bauer et al., 2018; Matthews et al., 2009</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0010" view="all">Ecological and botanical community indices can be useful tools for evaluating the conservation value of ecological communities, and such indices may be particularly efficacious when they give insights into biodiversity data that are difficult for land managers to interpret directly, such as those of cryptic taxa. Generally, ecological community indices assign each species a rank corresponding to its affinity with regard to an ecological continuum, and use the distributions of species across sites to evaluate where sites fall along the continuum (e.g., <ce:cross-refs id="r0015" refid="b0080 b0185">Kindscher et al., 2006; Sivicek and Taft, 2011</ce:cross-refs>). For example, the plant “wetness index” is used to delineate protected wetland areas, since plant species tend to have consistent hydrologic affinities (<ce:cross-ref id="c0035" refid="b0085">Lichvar, 2012</ce:cross-ref>). Other indices seek to represent the extent to which communities have been altered by anthropogenic activities, or the degree to which they are associated with late-successional habitats. The “coefficient of conservatism” has been widely used to represent the conservation value of vascular plant communities in recent decades, particularly in central and eastern North America (<ce:cross-ref id="c0040" refid="b0190">Spyreas, 2019</ce:cross-ref>). Coefficient of conservatism values are assigned by experts rather than based on quantitative field data, and much empirical evidence suggests that plant coefficient of conservatism rankings capture real ecological differences among species (<ce:cross-refs id="r0020" refid="b0100 b0020 b0030">Matthews et al. 2015; Bauer et al., 2018; Bried et al., 2018</ce:cross-refs>; reviewed by <ce:cross-ref id="c0045" refid="b0190">Spyreas, 2019</ce:cross-ref>). For example, average plant community coefficients of conservatism have been shown to increase with time since anthropogenic disturbance (<ce:cross-refs id="r0025" refid="b0095 b0195">Matthews et al., 2009; Spyreas et al., 2012</ce:cross-refs>), and the species-level rankings correlate with plant life history tradeoffs between “slow” species (e.g., long-lived, slow-growing, stress tolerant species) and “fast” species (e.g., adventive species with short lifespans that disperse widely; <ce:cross-ref id="c0050" refid="b0020">Bauer et al., 2018</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0015" view="all">Lichens—symbiotic organisms containing fungal and algal or cyanobacterial partners—may have particular value for indicating habitat successional status and conservation value. As ubiquitous groups of organisms that are sensitive to environmental conditions, lichen communities often vary predictably in relation to disturbance history and forest stand or tree age (<ce:cross-ref id="c0055" refid="b0060">Goward and Arsenault, 2018</ce:cross-ref>; <ce:cross-refs id="r0030" refid="b0120 b0150 b0155 b0230">Miller et al., 2017; Nascimbene et al., 2013; Petersen et al., 2017; Wolseley and Aguirre-Hudson, 1997</ce:cross-refs>); lichens have also been widely used for monitoring air quality and forest health (<ce:cross-refs id="r0035" refid="b0075 b0105">Jovan, 2008; McCune, 2000</ce:cross-refs>). Although several systems for using lichens as indicators of old growth forests have been developed (<ce:cross-refs id="r0040" refid="b0035 b0140 b0165 b0205">Campbell and Fredeen, 2004; Nascimbene et al., 2010; Rose, 1976; Tibell, 1992</ce:cross-refs>), independent, empirical tests of such indicators have usually been limited in scope because they are based on small sample sizes and narrow geographic regions. Recently, ecologists have called for more attention to lichens as indicators of forest age and forest continuity (<ce:cross-ref id="c0060" refid="b0115">McMullin and Wiersma, 2019</ce:cross-ref>). Lichen indicator systems may help land managers interpret lichen survey results; forest managers in many parts of the world are tasked with management decisions that will affect lichens, such as the protection of rare lichen species, but rarely have specific training in lichenology (<ce:cross-refs id="r0045" refid="b0005 b0120 b0175">Allen et al., 2019; Miller et al., 2017; Rosso et al., 2000</ce:cross-refs>). Further, lichen indicator systems may help managers identify late successional ecosystems that provide habitat for other organisms of conservation concern (<ce:cross-refs id="r0050" refid="b0010 b0115">Arsenault and Goward, 2016; McMullin and Wiersma, 2019</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0020" view="all">Here, we explore whether lichens may be effective indicators of forest conservation value and successional status. First, we introduce a lichen conservation index, in which lichen species are ranked by experts based on their estimated affinity for different habitat successional states (e.g., young or old forest). We then use a large forest survey data set to explore how the lichen conservation index corresponds to forest stand age and other environmental variables. The lichen conservation index that we present represents a lichen analog to the coefficient of conservatism that is widely applied to plant communities in central and eastern North America (<ce:cross-ref id="c0065" refid="b0190">Spyreas, 2019</ce:cross-ref>). Using lichens for this purpose is appropriate because lichens exhibit a spectrum of ecological affinities, ranging from species that thrive under certain types of anthropogenic disturbance (e.g., nitrophiles that become especially abundant in nutrient enriched agricultural landscapes) to species that are very sensitive to most anthropogenic disturbance (e.g., species that are restricted to old-growth forests; <ce:cross-ref id="c0070" refid="b0115">McMullin and Wiersma, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0025" view="all">While previous efforts to use lichens as old-growth indicators have usually taken a binary approach, where species are assigned as either old forest indicators or not, we use a continuous index of lichen habitat affinities, since many lichen species may have some degree of affinity for old forests even if they are not old growth obligates. We focus here on lichen communities of forested areas in western Oregon and Washington, USA, a region with a long history of lichen monitoring and management (<ce:cross-ref id="c0075" refid="b0040">Derr et al., 2003</ce:cross-ref>). Lichen communities are relatively well studied in this region because lichen surveys have been required prior to most management activities on federal lands since the Northwest Forest Plan took effect following the spotted owl controversy in the mid-1990s (<ce:cross-ref id="c0080" refid="b0130">Molina et al., 2006</ce:cross-ref>). To the best of our knowledge, this is the first continuous index for testing lichen affinities for forest stand age.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st020">Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st025">Development of the lichen conservation index</ce:section-title>
+                     <ce:para id="p0030" view="all">We modeled the lichen conservation index on the plant coefficient of conservatism, which is widely used in central and eastern North America. The plant coefficient of conservatism is assigned to each vascular plant in a given region as a number from 0 to 10, representing a species’ affinity for undisturbed, late-successional or remnant habitats (<ce:cross-ref id="c0085" refid="b0200">Swink and Willhelm, 1994</ce:cross-ref>). Plants that tend to occur in disturbed or anthropogenically modified habitats receive lower values, while plants associated with late successional habitats receive higher values. Plant coefficients of conservatism are assigned by panels of regional floristic experts, often at the state level in the USA (i.e., for regions of approximately 10,000–500,000 km<ce:sup loc="post">2</ce:sup>; <ce:cross-ref id="c0090" refid="b0190">Spyreas, 2019</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0035" view="all">We focused on epiphytic (tree-dwelling) macrolichens for the lichen conservation index because they are the most commonly studied group of lichens in most regions, and they are commonly surveyed in context of forest management (e.g., <ce:cross-ref id="c0095" refid="b0075">Jovan, 2008</ce:cross-ref>). Epiphytic macrolichens are mostly relatively easy to identify in comparison to other groups of lichen taxa, such as crustose lichens and other saxicolous (rock-dwelling) or terricolous (soil-dwelling) lichens, and non-experts can be trained to identify them relatively rapidly (<ce:cross-ref id="c0100" refid="b0115">McMullin and Wiersma, 2019</ce:cross-ref>). Although some groups of epiphytic lichens are more challenging to identify and require lab work (e.g., <ce:italic>Bryoria</ce:italic> and <ce:italic>Usnea</ce:italic>), these usually make up a relatively small proportion of community diversity. Standard lichen monitoring protocols, such as the Forest Inventory and Analysis lichen plot network in the USA, often examine only epiphytic macrolichens, and as a consequence the distributions and ecology of these lichens are much better understood than those of more cryptic lichen groups (<ce:cross-ref id="c0105" refid="b0075">Jovan, 2008</ce:cross-ref>). Epiphytic macrolichens have also been used for old forest lichen indices in Europe (<ce:cross-ref id="optDGOmHWAI8h" refid="b0165">Rose, 1976</ce:cross-ref>; <ce:cross-ref id="optOaAoycOuM1" refid="bib231">Coppins and Coppins, 2002</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0040" view="all">To develop the lichen conservation index, three expert regional lichenologists (each with 19–24 years of lichen field experience in the Pacific Northwest) independently assigned values 1–10 to each epiphytic lichen species included in the authoritative regional lichen identification guide (<ce:cross-ref id="c0110" refid="b0110">McCune and Geiser, 2009</ce:cross-ref>). Based on our field experience, we assigned low values to species with affinities for early successional and / or anthropogenically disturbed habitats, and we assigned high values to species that are largely or entirely restricted to late successional habitats. Generalist species and species that are most common in mid-seral habitats received intermediate values. Rankings between the three experts (AH, DS, and JV) were substantially correlated (average pairwise correlation coefficient = 0.56), and we developed a master index based on the three sets of individual rankings through consensus (Table S1).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st030">Testing the index with empirical data</ce:section-title>
+                     <ce:para id="p0045" view="all">To explore relationships between the lichen conservation index and forest stand attributes such as stand age, we used the National Forest Lichen Air Quality Monitoring Program lichen data set for the western slope of the Cascade Range of western Oregon and Washington (available at: <ce:inter-ref id="ir005" xlink:href="http://www.gis.nacse.org" xlink:type="simple">www.gis.nacse.org</ce:inter-ref>). This database uses surveys that are conducted following Forest Inventory and Analysis (FIA) protocols: surveys are conducted in 0.39 ha plots that are widely distributed across Forest Service lands in the Pacific Northwest, mostly on 10 km grids. In each plot, the surveyors search for all epiphytic macrolichens. Surveys are conducted by trained but non-expert surveyors; specimens are collected for all lichen species, and these are verified by experts. In our analyses, we dropped one outlying site that had (perhaps erroneously) much higher lichen species richness than any other, and one outlier that had a much lower average lichen conservation index ranking than any other. We conducted some analyses with a low-elevation subset of the sites (sites meeting the above criteria and occurring &lt;1000 m elevation). We checked the nomenclature of all species and made corrections as needed to ensure that species with recent taxonomic changes matched between our species list and the database. In our final species list (Table S1), we list species following nomenclature used by <ce:cross-ref id="c0115" refid="b0110">McCune and Geiser (2009)</ce:cross-ref> and include synonyms as used by <ce:cross-ref id="c0120" refid="b0045">Esslinger (2019)</ce:cross-ref>, which in some cases represent more recent taxonomic changes.</ce:para>
+                     <ce:para id="p0050" view="all">To test whether the lichen conservation index was a significant predictor of forest stand age, we first calculated the average stand age where lichens of each conservation index integer value occurred. We then used a regression model with the average lichen conservation index value for each site as the response variable and stand age and its quadratic term (stand age squared) as predictor variables. To compare how the performance of the lichen conservation index compared to other potential lichen-based indicators of stand age, we also ran this model with three other response variables: total lichen species richness, the number of old-growth indicator species (species with lichen conservation index rankings &gt;= 7), and the proportion of old-growth indicator species in the lichen community. These analyses were conducted for both the entire dataset (575 study plots) and a low elevation subset of the plots (240 study plots), since the relationship between the lichen conservation index and stand age appeared to be weaker at higher elevations. We included the quadratic term for stand age because we hypothesized that the lichen community response variables could have non-linear responses to stand age, such as saturating or hump-shaped responses.</ce:para>
+                     <ce:para id="p0055" view="all">To explore possible confounding effects of other environmental variables, we ran models for average lichen conservation index and lichen species richness where precipitation and elevation, as well as their quadratic terms, were included as additional predictors along with stand age and its quadratic term. We initially included interaction terms for each pairwise combination of the three environmental variables (stand age, precipitation, and elevation), and then removed interaction terms that were not significant from the model. AIC indicated that the refined model represented a substantial improvement over the original model (ΔAIC = ~3).</ce:para>
+                     <ce:para id="p0060" view="all">We chose to use the average plot-level lichen conservation index value as the focal response variable so that the model would be directly comparable to the lichen species richness model. Because averaging the lichen conservation index values at the plot level could lead to type I error inflation, we also ran a mixed effects logistic regression model to explore the influence of stand age and conservation index values on species occurrence following methods recommended by <ce:cross-ref id="c0125" refid="b0125">Miller et al. (2019)</ce:cross-ref>. Stand age and precipitation were square-root transformed prior to all analyses to improve variable normality and better meet model assumptions. All analyses were performed in R (<ce:cross-ref id="c0130" refid="b0160">R Core Team, 2018</ce:cross-ref>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Results</ce:section-title>
+                  <ce:para id="p0065" view="all">The species-level lichen conservation index was positively related to the average stand age where species occurred (P &lt; 0.001 for all species and for species that occurred in five or more plots; <ce:cross-ref id="c0135" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>). For species that occurred in at least five plots, species with a conservation index ranking of two occurred in plots with an average stand age of 62 years, while species with an index ranking of ten occurred in plots with an average stand age of 220 years. Intermediate species with a ranking of six occurred in stands with an average age of 114 years.</ce:para>
+                  <ce:para id="p0070" view="all">The average lichen conservation index values at the plot level were positively related to stand age across the entire dataset (R<ce:sup loc="post">2</ce:sup> = 0.169, P &lt; 0.001), and this relationship became stronger when we analyzed low elevation (&lt;1000 m) sites only (R<ce:sup loc="post">2</ce:sup> = 0.24, P &lt; 0.001; <ce:cross-ref id="c0140" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>). In contrast, species richness had a much weaker, though still significant, hump-shaped relationship with stand age for both the entire dataset (R<ce:sup loc="post">2</ce:sup> = 0.022, P = 0.002) and low-elevation sites only (R<ce:sup loc="post">2</ce:sup> = 0.049, P = 0.003), with species richness peaking in stands around 150–200 years old and then declining. The number of old-growth indicator species in a plot (defined as species with a conservation index value &gt;= 7) was also positively related to stand age (R<ce:sup loc="post">2</ce:sup> = 0.04, P &lt; 0.001 for all plots; R<ce:sup loc="post">2</ce:sup> = 0.116, P &lt; 0.001 for low elevation plots only), as was the proportion of old-growth indicator species in a plot (R<ce:sup loc="post">2</ce:sup> = 0.057, P &lt; 0.001 for all plots; R<ce:sup loc="post">2</ce:sup> = 0.158, P &lt; 0.001 for low elevation plots only). The mixed effects logistic regression model for species occurrence showed a significant interaction between the lichen conservation index and stand age (P &lt; 0.001), indicating that significant relationships between average plot-level lichen conservation index values and stand age in simple linear models were not caused by type I error inflation (Table S2; <ce:cross-ref id="c0145" refid="b0125">Miller et al. 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0075" view="all">The model for the site-level lichen conservation index that included environmental variables had substantially higher explanatory power than the simple bivariate model (not surprisingly) and indicated that stand age interacted with elevation (P &lt; 0.001; <ce:cross-ref id="c0150" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>). Stand age had a strong, positive effect on the lichen conservation index at low elevations, but this relationship weakened with increasing elevation, and there was no relationship between stand age and the lichen conservation index at the highest elevations. Precipitation had a weak, marginally significant, hump-shaped relationship with the lichen conservation index (P = 0.07), and precipitation did not interact significantly with either elevation or stand age.</ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st040">Discussion</ce:section-title>
+                  <ce:para id="p0080" view="all">Our analysis of several hundred study plots across ~500 km of the Cascade Range provides some of the strongest evidence yet that lichens can be used as reliable indicators of forest stand age, and potentially forest conservation value, even across relatively large geographic regions. The lichen conservation index that we developed based on expert field experience has a positive relationship with forest stand age that becomes stronger after we control for other environmental variables. The strong affinity of certain lichen species for late successional forests has long been recognized (<ce:cross-refs id="r0055" refid="b0050 b0150 b0170">Gauslaa et al., 2007; Nascimbene et al., 2013; Rose, 1988</ce:cross-refs>), and several systems for using lichens as indicators of old growth forest have been developed (e.g., <ce:cross-refs id="r0060" refid="b0165 b0140">Rose, 1976; Nascimbene et al., 2010</ce:cross-refs>). However, previous empirical tests of such indices have often been limited in scope, often using relatively small sample sizes and / or focusing on small geographic regions (e.g., <ce:cross-refs id="r0065" refid="b0010 b0055">Arsenault and Goward, 2016; Giordani et al., 2012</ce:cross-refs>). Our conclusions are particularly important in light of previous work suggesting that the efficacy of lichen indicator systems may be context-dependent—and therefore of limited utility across broad regions (<ce:cross-refs id="r0070" refid="b0010 b0225">Arsenault and Goward, 2016; Will-Wolf et al., 2006</ce:cross-refs>). Our findings suggest that the lichen conservation index could help forest managers who have little training in lichenology interpret lichen survey data to inform management decisions.</ce:para>
+                  <ce:para id="p0085" view="all">The relationship between the lichen conservation index and forest stand age becomes stronger when we include elevation and precipitation as additional predictor variables, though precipitation has only a weak and marginally significant effect on the conservation index. The conservation index has a strong, positive relationship with stand age at low elevations, but this relationship weakens with increasing elevation. The influence of environmental covariates on the lichen conservation index suggests that the index is meaningful for comparing forest stands in the same general range of climatic conditions (e.g., low elevation forests), but that it should be adjusted for environmental influences before being used as an absolute measure for comparing disparate communities growing under strongly varying climates (e.g., low and high elevation forests, or wet and dry forests), since lichens may vary in their degree of affinity for old growth forests depending on environmental conditions. The lichen conservation index may have decreasing importance with increasing elevation because most archetypal old-growth forest lichens in our study region, such as cyano- and cephalo-lichens like <ce:italic>Lobaria oregana</ce:italic>, <ce:italic>Nephroma occultum</ce:italic> and <ce:italic>Pseudocyphellaria raineriensis</ce:italic>, occur only at low- to mid-elevations (<ce:cross-refs id="r0075" refid="b0025 b0175">Berryman and McCune, 2006; Rosso et al., 2000</ce:cross-refs>). More intensive forest management generally occurs in the more productive forests at low and mid-elevations, and the lichen conservation index appears to be meaningful in these areas, where it is potentially most useful for management.</ce:para>
+                  <ce:para id="p0090" view="all">Our study suggests that a continuous lichen conservation index may have substantial advantages over binary approaches that assign lichens into a single class of old-growth indicators; most existing lichen habitat affinity indicator systems take the binary approach or use individual species as indicators (<ce:cross-refs id="r0080" refid="b0140 b0165">Nascimbene et al., 2010; Rose, 1976</ce:cross-refs>). In this study, the number of old-growth indicator species (defined here as species with lichen conservation index rankings &gt;= 7) and the proportion of old-growth indicator species in the community are both positively correlated with stand age, but the proportion of old-growth indicator species has a stronger relationship with stand age, perhaps because it is unaffected by variation in species richness. Nonetheless, both of these metrics based on binary species classifications have substantially less predictive power for stand age than the continuous lichen conservation index.</ce:para>
+                  <ce:para id="p0095" view="all">Macrolichen species richness is not a useful indicator of stand age in this dataset, since it has a weak and hump-shaped relationship with stand age. Although numerous previous studies have found that total lichen richness increases linearly with forest stand or tree age (<ce:cross-refs id="r0085" refid="b0090 b0135 b0155">Lie et al., 2009; Moning et al., 2009; Petersen et al., 2017</ce:cross-refs>), our results highlight that non-monotonic (e.g., hump-shaped) relationships between lichen richness and stand age can also occur. Indeed, other studies have found mostly positive but non-monotonic relationships (<ce:cross-ref id="c0155" refid="b0145">Nascimbene et al., 2009</ce:cross-ref>), positive relationships only in younger stands (<ce:cross-ref id="c0160" refid="b0070">Johansson et al., 2007</ce:cross-ref>), and negative or non-significant relationships between lichen species richness and stand age (<ce:cross-ref id="c0165" refid="b0015">Bäcklund et al., 2016</ce:cross-ref>). Thus, we suggest that continuous indicator approaches are likely to have better predictive power for stand age than other commonly used lichen community metrics such as species richness, single-species indicators, or other binary indicator systems.</ce:para>
+                  <ce:para id="p0100" view="all">In addition to their association with stand age, lichen communities may be strongly affected by forest continuity--the amount of time that a landscape has been continuously forested (<ce:cross-refs id="r0090" refid="b0115 b0180 b0215">McMullin &amp; Wiersma, 2019; Selva, 2003; Villella et al., 2013</ce:cross-refs>). While stand age and forest continuity are sometimes treated as synonymous concepts (<ce:cross-ref id="c0170" refid="b0135">Moning et al., 2009</ce:cross-ref>), researchers have recently pointed out they should be recognized as potentially independent variables of interest (<ce:cross-refs id="r0095" refid="b0065 b0220">Janssen et al., 2019; Wiersma and McMullin, 2019</ce:cross-refs>). This distinction may be more important in Europe and eastern North America than in western North America. Although forests in western North America have been highly modified by human activities, the reversion of agricultural lands to forest has been rare in this region, while it is more common in some other regions. Since none of the sites we analyzed here has been converted to forest from other land uses to the best of our knowledge, our study probably provides an assessment of the influence of stand age on lichen communities independent from the influence of forest continuity. Additional quantitative studies in regions with more heterogeneous histories of forest continuity could provide more evidence about how forest continuity influences lichen communities relative to stand age.</ce:para>
+                  <ce:para id="p0105" view="all">Although our findings suggest that the lichen conservation index has substantial biological relevance, there are of course limitations to our study. We tested the index using forest survey data from the west slope of the Cascade Range in Oregon and Washington, but the index may be ecologically relevant somewhat more broadly (e.g., in the Coast Ranges of Oregon and Washington), and this remains to be further explored. The index would probably be less likely to perform well in extremely wet regions of the Pacific Northwest, such as coastal forests on northern Vancouver Island, where lichen communities are relatively depauperate even in old growth forests and bryophytes become more dominant (personal communication, Trevor Goward). Although our index was developed by four experienced lichenologists, input from additional experts could improve the ranking system. We envision that the lichen conservation index will be refined in the future after it has been further explored and tested by field biologists and forest managers, and we hope to receive feedback from those who use it.</ce:para>
+                  <ce:para id="p0110" view="all">The coefficient of conservation, an index for vascular plants that is similar to the lichen conservation index we present here, has a long history of use by botanists and land managers but has also been criticized at times (<ce:cross-ref id="c0175" refid="b0190">Spyreas, 2019</ce:cross-ref>). Because values are assigned by experts, rather than based on field data, some researchers have suggested that they may be biased. Empirical studies, however, have shown that the coefficient of conservatism appears to be meaningful, since it is correlated with independent measures of habitat conservation value, and species with similar coefficients of conservatism are more likely to co-occur (<ce:cross-refs id="r0100" refid="b0095 b0100 b0190">Matthews et al., 2009, 2015; Spyreas, 2019</ce:cross-refs>). The coefficient of conservatism appears to provides unique information that is not represented by species richness (<ce:cross-ref id="c0180" refid="b0095">Matthews et al., 2009</ce:cross-ref>). This previous research examining a plant indicator system, in combination with our findings here, suggests that the lichen conservation index may have useful biological relevance for management. For example, the lichen conservation index could help managers prioritize conservation or management decisions by providing a means to compare different forest stands. Old growth character—the degree to which forest stands have ecological characteristics associated with old growth forests—should be generally correlated with stand age, but the lichen conservation index may provide additional information related to stand conservation value beyond stand age alone. Ultimately, the development of similar indices in other parts of the world could make lichen biomonitoring approaches more accessible to land managers.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:section-title id="st045">Author contributions</ce:section-title>
+                  <ce:para id="p0115" view="all">JM conceived of the project, analyzed the data and wrote the manuscript. JV led the assignment of the lichen index values, curated the species list, and contributed to background research. All authors contributed to assigning lichen index values and editing the manuscript.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st050">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="p0120" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st055">Acknowledgements</ce:section-title>
+               <ce:para id="p0125" view="all">We thank Peter Nelson and Linda Geiser for helping us access and understand the National Forest Lichen Air Quality Monitoring Program data set. We are grateful to Tom Carlberg for assistance with this project, and we thank the Fukami lab at Stanford for early feedback on the project. We also thank Trevor Goward for valuable comments on an early draft of the manuscript. Finally, we acknoweledge the numerous surveyors whose work under the Survey and Manage program has greatly enhanced our knowledge of lichens in the Pacific Northwest.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="s0040" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st060">Supplementary material</ce:section-title>
+                  <ce:para id="p0130" view="all">Supplementary data to this article can be found online at <ce:inter-ref id="ir010" xlink:href="https://doi.org/10.1016/j.foreco.2020.118436" xlink:type="simple">https://doi.org/10.1016/j.foreco.2020.118436</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0045" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st065">Supplementary material</ce:section-title>
+                  <ce:para id="p0135" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link id="lk00020" locator="mmc1" xlink:href="pii:S0378112720312056/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0241" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0006">
+                           <ce:label>Supplementary data 2</ce:label>
+                           <ce:link id="lk00051" locator="mmc2" xlink:href="pii:S0378112720312056/mmc2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st070">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>Allen et al., 2019</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>McMullin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Tripp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Lendemer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lichen conservation in North America: a review of current practices and research in Canada and the United States</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biodivers. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3103</sb:first-page>
+                              <sb:last-page>3138</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10531-019-01827-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">Allen, J. L., McMullin, R. T., Tripp, E. A., &amp; Lendemer, J. C. (2019). Lichen conservation in North America: a review of current practices and research in Canada and the United States. In Biodiversity and Conservation (Vol. 28). doi: 10.1007/s10531-019-01827-3</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Arsenault and Goward, 2016</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arsenault</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Goward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Macrolichen diversity as an indicator of stand age and ecosystem resilience along a precipitation gradient in humid forests of inland British Columbia, Canada</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>730</sb:first-page>
+                              <sb:last-page>738</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2016.04.015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Arsenault, A., &amp; Goward, T. (2016). Macrolichen diversity as an indicator of stand age and ecosystem resilience along a precipitation gradient in humid forests of inland British Columbia, Canada. Ecological Indicators, 69, 730–738. doi: 10.1016/j.ecolind.2016.04.015</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Bäcklund et al., 2016</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bäcklund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jönsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Strengbom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Frisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Thor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A pine is a pine and a spruce is a spruce – the effect of tree species and stand age on epiphytic lichen communities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS ONE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1371/journal.pone.0147004</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Bäcklund, S., Jönsson, M., Strengbom, J., Frisch, A., &amp; Thor, G. (2016). A Pine Is a Pine and a Spruce Is a Spruce – The Effect of Tree Species and Stand Age on Epiphytic Lichen Communities. PLoS ONE, 11(1), 1–18. doi: 10.1371/journal.pone.0147004</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Bauer et al., 2018</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Koziol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Bever</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecology of Floristic Quality Assessment: Testing for correlations between coefficients of conservatism, species traits and mycorrhizal responsiveness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AoB Plants</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1093/aobpla/plx073</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Bauer, J. T., Koziol, L., &amp; Bever, J. D. (2018). Ecology of Floristic Quality Assessment: Testing for correlations between coefficients of conservatism, species traits and mycorrhizal responsiveness. AoB PLANTS, 10(1), 1–13. doi: 10.1093/aobpla/plx073</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Berryman and McCune, 2006</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Berryman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>McCune</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimating epiphytic macrolichen biomass from topography, stand structure and lichen community data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Veg. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Berryman, S., &amp; McCune, B. (2006). Estimating epiphytic macrolichen biomass from topography, stand structure and lichen community data. Journal of Vegetation Science, 17, 157–170.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Bried et al., 2018</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Bried</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Azeria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.E.</ce:given-name>
+                                 <ce:surname>Crisfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experts and models can agree on species sensitivity values for conservation assessments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>225</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>April</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>222</sb:first-page>
+                              <sb:last-page>228</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.biocon.2018.07.013</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Bried, J. T., Allen, B. E., Azeria, E. T., Crisfield, V. E., &amp; Wilson, M. J. (2018). Experts and models can agree on species sensitivity values for conservation assessments. Biological Conservation, 225(April), 222–228. doi: 10.1016/j.biocon.2018.07.013</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Campbell and Fredeen, 2004</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Fredeen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lobaria pulmonaria abundance as an indicator of macrolichen diversity in Interior Cedar-Hemlock forests of east-central British Columbia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Bot.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>970</sb:first-page>
+                              <sb:last-page>982</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1139/B04-074</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Campbell, J., &amp; Fredeen, A. L. (2004). Lobaria pulmonaria abundance as an indicator of macrolichen diversity in Interior Cedar-Hemlock forests of east-central British Columbia. Canadian Journal of Botany, 82(7), 970–982. doi: 10.1139/B04-074</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib231">
+                     <ce:label>Coppins and Coppins, 2002</ce:label>
+                     <sb:reference id="optNHbQnGIzrx">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Coppins, A.M., Coppins, B.J.</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indices of Ecological Continuity for Woodland Epiphytic Lichen Habitats in the British Isles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>British Lichen Society</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://www.britishlichensociety.org.uk/sites/www.britishlichensociety.org.uk/files/about-lichens-downloads/indices-ecological-continuity-woodland-epiphytic-lichens.pdf" xlink:type="simple" id="ir9000">https://www.britishlichensociety.org.uk/sites/www.britishlichensociety.org.uk/files/about-lichens-downloads/indices-ecological-continuity-woodland-epiphytic-lichens.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctbib231">Coppins, A.M., Coppins, B.J., 2002. Indices of Ecological Continuity for Woodland Epiphytic Lichen Habitats in the British Isles. British Lichen Society. https://www.britishlichensociety.org.uk/sites/www.britishlichensociety.org.uk/files/about-lichens-downloads/indices-ecological-continuity-woodland-epiphytic-lichens.pdf.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Derr et al., 2003</ce:label>
+                     <ce:other-ref id="h0040">
+                        <ce:textref>Derr, C., Helliwell, A., Ruchty, A., Hoober, L., Geiser, L., Lebo, D., &amp; Davis, J., 2003. Survey protocols for Survey &amp; Manage category A &amp; C lichens in the Northwest Forest Plan area.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Esslinger, 2019</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Esslinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A cumulative checklist for the lichen-forming, lichenicolous and allied fungi of the continental United States and Canada, Version 23</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opuscula Philolichenum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>102</sb:first-page>
+                              <sb:last-page>378</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Esslinger, T. L. (2019). A cumulative checklist for the lichen-forming, lichenicolous and allied fungi of the continental United States and Canada, Version 23. Opuscula Philolichenum, 18, 102–378.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Gauslaa et al., 2007</ce:label>
+                     <ce:other-ref id="h0050">
+                        <ce:textref>Gauslaa, Y., Palmqvist, K., Solhaug, K. A., Holien, H., Hilmo, O., Nybakken, L., … Ohlson, M., 2007. Growth of epiphytic old forest lichens across climatic and successional gradients. 1845(7491), 1832–1845. doi: 10.1139/X07-048.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Giordani et al., 2012</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Giordani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Brunialti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bacaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nascimbene</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functional traits of epiphytic lichens as potential indicators of environmental conditions in forest ecosystems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>413</sb:first-page>
+                              <sb:last-page>420</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2011.12.006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Giordani, P., Brunialti, G., Bacaro, G., &amp; Nascimbene, J. (2012). Functional traits of epiphytic lichens as potential indicators of environmental conditions in forest ecosystems. Ecological Indicators, 18, 413–420. doi: 10.1016/j.ecolind.2011.12.006</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Goward and Arsenault, 2018</ce:label>
+                     <ce:other-ref id="h0060">
+                        <ce:textref>Goward, T., Arsenault, A., 2018. Calicioid diversity in humid inland British Columbia may increase into the 5th century after stand initiation. 50(5), 555–569. doi: 10.1017/S0024282918000324.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Janssen et al., 2019</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Janssen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bergès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fuhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Paillet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do not drop OLD for NEW: conservation needs both forest continuity and stand maturity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>370</sb:first-page>
+                              <sb:last-page>371</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Janssen, P., Bergès, L., Fuhr, M., &amp; Paillet, Y. (2019). Do not drop OLD for NEW: conservation needs both forest continuity and stand maturity. Frontiers in Ecology and the Environment, 17(7), 370–371.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Johansson et al., 2007</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rydin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Goran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tree age relationships with epiphytic lichen diversity and lichen life history traits on</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecoscience</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>91</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">Johansson, P., Rydin, H., &amp; Goran, T. (2007). Tree age relationships with epiphytic lichen diversity and lichen life history traits on. Ecoscience, 14(1), 81–91.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Jovan, 2008</ce:label>
+                     <ce:other-ref id="h0075">
+                        <ce:textref>Jovan, S., 2008. Lichen Bioindication of Biodiversity, Air Quality, and Climate: Baseline Results From Monitoring in Washington, Oregon, and California. General Technical Report PNW-GTR-737, (March), 115.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Kindscher et al., 2006</ce:label>
+                     <ce:other-ref id="h0080">
+                        <ce:textref>Kindscher, K., Questad, E., Foster, B., Loring, H., 2006. Floristic Quality as an Indicator of Native Species Diversity in Managed Grasslands. 26(1), 149–167.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Lichvar, 2012</ce:label>
+                     <ce:other-ref id="h0085">
+                        <ce:textref>Lichvar, R.W., 2012. The National Wetland Plant List. ERDC/CRREL TR-12-11. U.S. Army Engineer Research and Development Center, Cold Regions Research and Engineering Laboratory, Hanover, New Hampshire. Hanover, New Hampshire.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Lie et al., 2009</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Arup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Grytnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ohlson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The importance of host tree age, size and growth rate as determinants of epiphytic lichen diversity in boreal spruce forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biodivers. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3579</sb:first-page>
+                              <sb:last-page>3596</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10531-009-9661-z</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Lie, M., Arup, U., Grytnes, J. A., &amp; Ohlson, M. (2009). The importance of host tree age, size and growth rate as determinants of epiphytic lichen diversity in boreal spruce forests. Biodiversity and Conservation, 18, 3579–3596. doi: 10.1007/s10531-009-9661-z</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>Matthews et al., 2009</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Matthews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spyreas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Endress</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trajectories of vegetation-based indicators used to assess wetland restoration progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2093</sb:first-page>
+                              <sb:last-page>2107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir015" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/20014581" xlink:type="simple">http://www.ncbi.nlm.nih.gov/pubmed/20014581</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">Matthews, J. W., Spyreas, G., &amp; Endress, A. G. (2009). Trajectories of vegetation-based indicators used to assess wetland restoration progress. Ecological Applications, 19(8), 2093–2107. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/20014581</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Matthews et al., 2015</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Matthews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spyreas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A null model test of Floristic Quality Assessment: are plant species’ Coefficients of Conservatism valid?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2014.11.017</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Matthews, J. W., Spyreas, G., &amp; Long, C. M. (2015). A null model test of Floristic Quality Assessment: Are plant species’ Coefficients of Conservatism valid ? Ecological Indicators, 52, 1–7. doi: 10.1016/j.ecolind.2014.11.017</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Mccune, 2000</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mccune</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lichen communities as indicators of forest health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Bryologist</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1032</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir020" xlink:href="http://www.jstor.org/stable/3244162%250Ahttp://www.jstor.org/page/info/about/policies/terms.jsp%250Ahttp://www.jstor.org" xlink:type="simple">http://www.jstor.org/stable/3244162%0Ahttp://www.jstor.org/page/info/about/policies/terms.jsp%0Ahttp://www.jstor.org</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">Mccune, B. (2000). Lichen Communities as Indicators of Forest Health. The Bryologist, 103(1032), 353–356. Retrieved from http://www.jstor.org/stable/3244162%0Ahttp://www.jstor.org/page/info/about/policies/terms.jsp%0Ahttp://www.jstor.org</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>McCune and Geiser, 2009</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>McCune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Geiser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Macrolichens of the Pacific Northwest</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd ed.</sb:edition>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oregon State University Presse</sb:name>
+                                 <sb:location>Corvallis, Oregon</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">McCune, B., &amp; Geiser, L. (2009). Macrolichens of the Pacific Northwest (2nd ed.). Corvallis, Oregon: Oregon State University Presse.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>McMullin and Wiersma, 2019</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>McMullin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Wiersma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Out with OLD growth, in with ecological continNEWity: new perspectives on forest conservation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/fee.2016</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">McMullin, R. T., &amp; Wiersma, Y. F. (2019). Out with OLD growth, in with ecological continNEWity: new perspectives on forest conservation. Frontiers in Ecology and the Environment, 17(3), 1–6. doi: 10.1002/fee.2016</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Miller et al., 2017</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Villella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Carey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Carlberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Root</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Canopy distribution and survey detectability of a rare old-growth forest lichen</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>For. Ecol. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>196</sb:first-page>
+                              <sb:last-page>201</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.foreco.2017.03.007</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">Miller, J.E.D., Villella, J., Carey, G., Carlberg, T., &amp; Root, H. T. (2017). Canopy distribution and survey detectability of a rare old-growth forest lichen. Forest Ecology and Management, 392, 196–201. doi: 10.1016/j.foreco.2017.03.007</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Miller et al., 2019</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Damschen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Ives</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functional traits and community composition: a comparison among community-weighted means, weighted correlations, and multilevel models</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Methods Ecol. Evol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>415</sb:first-page>
+                              <sb:last-page>425</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/2041-210X.13119</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">Miller, Jesse E.D., Damschen, E. I., &amp; Ives, A. R. (2019). Functional traits and community composition: A comparison among community-weighted means, weighted correlations, and multilevel models. Methods in Ecology and Evolution, 10(3), 415–425. doi: 10.1111/2041-210X.13119</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Molina et al., 2006</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Molina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.G.</ce:given-name>
+                                 <ce:surname>Marcot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lesher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Protecting rare, old-growth, forest-associated species under the survey and manage program guidelines of the Northwest Forest Plan</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Conserv. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>306</sb:first-page>
+                              <sb:last-page>318</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1523-1739.2006.00386.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">Molina, R., Marcot, B. G., &amp; Lesher, R. (2006). Protecting rare, old-growth, forest-associated species under the survey and manage program guidelines of the Northwest Forest Plan. Conservation Biology, 20(2), 306–318. doi: 10.1111/j.1523-1739.2006.00386.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Moning et al., 2009</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Moning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Werth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Dziock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bassler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bradtka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hothorn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lichen diversity in temperate montane forests is influenced by forest structure more than climate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>For. Ecol. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>258</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>745</sb:first-page>
+                              <sb:last-page>751</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.foreco.2009.05.015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">Moning, C., Werth, S., Dziock, F., Bassler, C., Bradtka, J., &amp; Hothorn, T. (2009). Lichen diversity in temperate montane forests is influenced by forest structure more than climate. Forest Ecology an d Management, 258, 745–751. doi: 10.1016/j.foreco.2009.05.015</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>Nascimbene et al., 2010</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nascimbene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Brunialti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ravera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Frati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Caniglia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Testing Lobaria pulmonaria (L.) Hoffm. as an indicator of lichen conservation importance of Italian forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>360</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2009.06.013</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">Nascimbene, J., Brunialti, G., Ravera, S., Frati, L., &amp; Caniglia, G. (2010). Testing Lobaria pulmonaria (L.) Hoffm. as an indicator of lichen conservation importance of Italian forests. Ecological Indicators, 10(2), 353–360. doi: 10.1016/j.ecolind.2009.06.013</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>Nascimbene et al., 2009</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nascimbene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Marini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Motta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Nimis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of tree age, tree size and crown structure on lichen communities in mature Alpine spruce forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biodivers. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2014</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1509</sb:first-page>
+                              <sb:last-page>1522</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10531-008-9537-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">Nascimbene, J., Marini, L., Motta, R., &amp; Nimis, P. L. (2009). Influence of tree age, tree size and crown structure on lichen communities in mature Alpine spruce forests. Biodiversity and Conservation, 18(2014), 1509–1522. doi: 10.1007/s10531-008-9537-7</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>Nascimbene et al., 2013</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nascimbene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Thor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Luigi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of forest management on epiphytic lichens in temperate deciduous forests of Europe – A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>For. Ecol. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>298</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                              <sb:last-page>38</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">Nascimbene, J., Thor, G., &amp; Luigi, P. (2013). Effects of forest management on epiphytic lichens in temperate deciduous forests of Europe – A review. Forest Ecology an d Management, 298, 27–38.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>Petersen et al., 2017</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Calabria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Brown-Clay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hynson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Steen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Villella</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Substrate age influences species richness and community composition of calicioid lichens and fungi on wooden buildings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bryologist</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>24</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1639/0007-2745-120.1.019</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx145">Petersen, K., Calabria, L. M., Miller, J. E. D., Brown-Clay, J., Hynson, L., Steen, T., … Villella, J. (2017). Substrate age influences species richness and community composition of calicioid lichens and fungi on wooden buildings. Bryologist, 120(1), 19–24. doi: 10.1639/0007-2745-120.1.019</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>Core Team, 2018</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>R Core Team</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>R: A language and environment for statistical computing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir025" xlink:href="http://www.r-project.org/" xlink:type="simple">http://www.r-project.org/</ce:inter-ref>
+                              <sb:date>2018</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx150">R Core Team. (2018). R: A language and environment for statistical computing. Retrieved from http://www.r-project.org/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>Rose, 1976</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lichenological indicators of age and environmental continuity in woodlands</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.H.</ce:given-name>
+                                    <ce:surname>Braun</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>D.L.</ce:given-name>
+                                    <ce:surname>Hawksworth</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>R.H.</ce:given-name>
+                                    <ce:surname>Bailey</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Lichenology: Progress and Problems</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>307</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx155">Rose, F. (1976). Lichenological indicators of age and environmental continuity in woodlands. In D. H. Braun, D. L. Hawksworth, &amp; R. H. Bailey (Eds.), Lichenology: progress and problems (pp. 279–307). Academic Press, London.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>Rose, 1988</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phytogeographical and ecological aspects of Lobarion communities in Europe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bot. J. Linn. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>79</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1095-8339.1988.tb00628.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx160">Rose, F. (1988). Phytogeographical and ecological aspects of Lobarion communities in Europe. Botanical Journal of the Linnean Society, 96(1), 69–79. doi: 10.1111/j.1095-8339.1988.tb00628.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>Rosso et al., 2000</ce:label>
+                     <sb:reference id="h0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Rosso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>McCune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Rambo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecology and conservation of a rare, old-growth-associated canopy lichen in a silvicultural landscape</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Bryologist</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>127</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1639/0007-2745(2000)103[0117:EACOAR]2.0.CO;2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx165">Rosso, A. L., McCune, B., &amp; Rambo, T. R. (2000). Ecology and conservation of a rare, old-growth-associated canopy lichen in a silvicultural landscape. The Bryologist, 103(1), 117–127. doi: 10.1639/0007-2745(2000)103[0117:EACOAR]2.0.CO;2</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0180">
+                     <ce:label>Selva, 2003</ce:label>
+                     <sb:reference id="h0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Selva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Using calicioid lichens and fungi to assess ecological continuity in the Acadian Forest Ecoregion of the Canadian Maritimes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>For. Chron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>550</sb:first-page>
+                              <sb:last-page>558</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5558/tfc79550-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx170">Selva, S. B. (2003). Using calicioid lichens and fungi to assess ecological continuity in the Acadian Forest Ecoregion of the Canadian Maritimes. Forestry Chronicle, 79(3), 550–558. doi: 10.5558/tfc79550-3</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0185">
+                     <ce:label>Sivicek and Taft, 2011</ce:label>
+                     <sb:reference id="h0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.a.</ce:given-name>
+                                 <ce:surname>Sivicek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Taft</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functional Group Density as an index for assessing habitat quality in tallgrass prairie</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1251</sb:first-page>
+                              <sb:last-page>1258</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2011.01.003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx175">Sivicek, V. a., &amp; Taft, J. B. (2011). Functional Group Density as an index for assessing habitat quality in tallgrass prairie. Ecological Indicators, 11(5), 1251–1258. doi: 10.1016/j.ecolind.2011.01.003</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0190">
+                     <ce:label>Spyreas, 2019</ce:label>
+                     <sb:reference id="h0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spyreas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Floristic quality assessment: a critique, a defense, and a primer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e02825</sb:article-number>
+                           <ce:doi>10.1002/ecs2.2825</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx180">Spyreas, G. (2019). Floristic quality assessment: a critique, a defense, and a primer. Ecosphere, 10(8), e02825. doi: 10.1002/ecs2.2825</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0195">
+                     <ce:label>Spyreas et al., 2012</ce:label>
+                     <sb:reference id="h0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spyreas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Meiners</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Matthews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Molano-Flores</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Successional trends in Floristic Quality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                              <sb:last-page>348</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1365-2664.2011.02100.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx185">Spyreas, G., Meiners, S. J., Matthews, J. W., &amp; Molano-Flores, B. (2012). Successional trends in Floristic Quality. Journal of Applied Ecology, 49(2), 339–348. doi: 10.1111/j.1365-2664.2011.02100.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0200">
+                     <ce:label>Swink and Willhelm, 1994</ce:label>
+                     <sb:reference id="h0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Swink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Willhelm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plants of the Chicago Region</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>fourth ed.</sb:edition>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Indiana Academy of Science</sb:name>
+                                 <sb:location>Indianapolis</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx190">Swink, F., &amp; Willhelm, G. (1994). Plants of the Chicago Region (4th Ed.). Indianapolis: Indiana Academy of Science.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0205">
+                     <ce:label>Tibell, 1992</ce:label>
+                     <sb:reference id="h0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tibell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Crustose lichens as indicators of forest continuity in boreal coniferous forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nordic J. Bot.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>427</sb:first-page>
+                              <sb:last-page>450</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1756-1051.1992.tb01325.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx195">Tibell, L. (1992). Crustose lichens as indicators of forest continuity in boreal coniferous forests. Nordic Journal of Botany, 12(4), 427–450. doi: 10.1111/j.1756-1051.1992.tb01325.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0210">
+                     <ce:label>Veldman et al., 2015</ce:label>
+                     <sb:reference id="h0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Veldman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Buisson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Durigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Fernandes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Le Stradic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Mahy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Bond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toward an old-growth concept for grasslands, savannas, and woodlands</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1890/140270</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx200">Veldman, J. W., Buisson, E., Durigan, G., Fernandes, G. W., Le Stradic, S., Mahy, G., … Bond, W. J. (2015). Toward an old-growth concept for grasslands, savannas, and woodlands. Frontiers in Ecology and the Environment, 13(3), 154–162. doi: 10.1890/140270</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0215">
+                     <ce:label>Villella et al., 2013</ce:label>
+                     <sb:reference id="h0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Villella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Calabria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Eide</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Macrolichen communities of Quercus garryana in the Puget Trough and Columbia River Gorge areas of Washington State</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>North Am. Fungi</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.2509/naf2013.008.017</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx205">Villella, J., Stone, D., Calabria, L. M., &amp; Eide, G. D. (2013). Macrolichen communities of Quercus garryana in the Puget Trough and Columbia River Gorge areas of Washington State. North American Fungi, 8(17), 1–22. doi: 10.2509/naf2013.008.017</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0220">
+                     <ce:label>Wiersma and McMullin, 2019</ce:label>
+                     <sb:reference id="h0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Wiersma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>McMullin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Out with proxies, in with biodiversity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>371</sb:first-page>
+                              <sb:last-page>373</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/fee.2087</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx210">Wiersma, Y. F. &amp; McMullin, R. T. (2019). Out with proxies, in with biodiversity. Frontiers in Ecology and the Environment, 17(7), 371-373. doi: 10.1002/fee.2087</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0225">
+                     <ce:label>Will-Wolf et al., 2006</ce:label>
+                     <sb:reference id="h0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Will-Wolf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Geiser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Neitlich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Reis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Forest lichen communities and environment – How consistent are relationships across scales?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Veg. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>184</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx215">Will-Wolf, S., Geiser, L. H., Neitlich, P., &amp; Reis, A. H. (2006). Forest lichen communities and environment – How consistent are relationships across scales ? Journal of Vegetation Science, 17, 171–184.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0230">
+                     <ce:label>Wolseley and Aguirre-Hudson, 1997</ce:label>
+                     <sb:reference id="h0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Wolseley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Aguirre-Hudson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fire in tropical dry forests: Corticolous lichens as indicators of recent ecological changes in Thailand</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biogeogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir030" xlink:href="http://www.jstor.org/stable/2846238%255Cnhttp://about.jstor.org/terms" xlink:type="simple">http://www.jstor.org/stable/2846238%5Cnhttp://about.jstor.org/terms</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx220">Wolseley, P. A., &amp; Aguirre-Hudson, B. (1997). Fire in tropical dry forests: Corticolous lichens as indicators of recent ecological changes in Thailand. Source Journal of Biogeography Journal of Biogeography, 24(24), 345–362. Retrieved from http://www.jstor.org/stable/2846238%5Cnhttp://about.jstor.org/terms</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

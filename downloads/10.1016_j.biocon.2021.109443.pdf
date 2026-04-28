@@ -1,0 +1,2367 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S000632072100495X</prism:url><dc:identifier>doi:10.1016/j.biocon.2021.109443</dc:identifier><eid>1-s2.0-S000632072100495X</eid><prism:doi>10.1016/j.biocon.2021.109443</prism:doi><pii>S0006-3207(21)00495-X</pii><dc:title>High and balanced contribution of regional biodiversity hotspots to epiphytic and epixylic lichen species diversity in Great Britain </dc:title><prism:publicationName>Biological Conservation</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>00063207</prism:issn><prism:volume>266</prism:volume><prism:startingPage>109443</prism:startingPage><prism:pageRange>109443</prism:pageRange><articleNumber>109443</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-02-28</prism:coverDate><prism:coverDisplayDate>February 2022</prism:coverDisplayDate><prism:copyright>© 2022 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><dc:creator>Hofmeister, Jeňýk</dc:creator><dc:creator>Vondrák, Jan</dc:creator><dc:creator>Ellis, Christopher</dc:creator><dc:creator>Coppins, Brian</dc:creator><dc:creator>Sanderson, Neil</dc:creator><dc:creator>Malíček, Jiří</dc:creator><dc:creator>Palice, Zdeněk</dc:creator><dc:creator>Acton, Andy</dc:creator><dc:creator>Svoboda, Stanislav</dc:creator><dc:creator>Gloor, Rhiannon</dc:creator><dc:description>
+                  We surveyed epiphytic and epixylic lichens in eleven 1-hectare forest plots located in representative old-forest stands in four distinct regions of Great Britain that are well-known centres of lichen biodiversity. We aimed to analyse the patterns of lichen biodiversity in these important biodiversity hotspots from a British perspective. In total, we recorded 550 lichen species in 11 ha, i.e. 73% of the presently known British epiphytic and epixylic lichen flora. Species richness per site was regionally stratified and varied from 126 to 235 species. Although the presence of frequent species coincided with total species richness in the respective hotspot, rare species (those with &lt;50 records in Great Britain since 2000) were more balanced among hotspots and relatively independent of species richness. Species turnover contributed significantly and evenly to the species composition regardless of species richness so that hotspots did not have nested structure, typical for the hotspots in Central Europe. Although British hotspots generally shared more species within regions than between regions, geographic distances between regions did not correspond with the differences in species composition. The results document the importance and irreplaceability of the surveyed hotspots for lichen diversity in Great Britain, notwithstanding their current species richness and past depletion due to long-term acid deposition and habitat degradation.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Czechia: LE Tracking</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Beta-diversity</dcterms:subject><dcterms:subject>Old-forests</dcterms:subject><dcterms:subject>Rare species</dcterms:subject><dcterms:subject>Species richness</dcterms:subject><dcterms:subject>Species turnover</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S000632072100495X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S000632072100495X" rel="scidir"/></coredata><objects><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="714" height="982" size="155980">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="503" size="42526">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="314" size="23892">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="119" height="164" size="7178">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="163" height="164" size="6614">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="177" height="164" size="6549">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3160" height="4348" size="1243210">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1329" height="1337" size="151890">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1389" size="179995">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="988729">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="353412">https://api.elsevier.com/content/object/eid/1-s2.0-S000632072100495X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85123080767</scopus-id><scopus-eid>2-s2.0-85123080767</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85123080767" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271811</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291729</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291840</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biological Conservation</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOLOGICALCONSERVATION</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220120">2022-01-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220120">2022-01-20</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220120">2022-01-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220120">2022-01-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-05-05T17:10:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S000632072100495X</xocs:eid>
+      <xocs:pii-formatted>S0006-3207(21)00495-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S000632072100495X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biocon.2021.109443</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0006320722X00025</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20260428">2026-04-28T14:00:56.530823Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220201</xocs:date-search-begin>
+      <xocs:date-search-end>20220228</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1642645484">2022-01-20T02:24:44.657342Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0006-3207</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00063207</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>CZECHILETR</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>266</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>266</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 266</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>28</xocs:sort-order>
+      <xocs:first-fp>109443</xocs:first-fp>
+      <xocs:article-number>109443</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>109443</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202202</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short Communications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHBALANCEDCONTRIBUTIONREGIONALBIODIVERSITYHOTSPOTSEPIPHYTICEPIXYLICLICHENSPECIESDIVERSITYINGREATBRITAIN</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HOFMEISTER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Conservation implications</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf202201110246441287">
+            <xocs:ref-normalized-surname>ANSTETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>195</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110246468527">
+            <xocs:ref-normalized-surname>BARTELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-last-lp>400</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110249411339">
+            <xocs:ref-normalized-surname>BASELGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110249389729">
+            <xocs:ref-normalized-surname>BASELGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RPACKAGEBETAPARTVERSION13</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110249422969">
+            <xocs:ref-normalized-surname>BASSLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>689</xocs:ref-first-fp>
+            <xocs:ref-last-lp>698</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110249430169">
+            <xocs:ref-normalized-surname>CLAVEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>222</xocs:ref-first-fp>
+            <xocs:ref-last-lp>228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110249446261">
+            <xocs:ref-normalized-surname>ELLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>106</xocs:ref-first-fp>
+            <xocs:ref-last-lp>114</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110250079326">
+            <xocs:ref-normalized-surname>ELLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-last-lp>91</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110250081357">
+            <xocs:ref-normalized-surname>ELLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3482</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3489</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110246471027">
+            <xocs:ref-normalized-surname>HAUCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110303521708">
+            <xocs:ref-normalized-surname>HEEGAARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>937</xocs:ref-first-fp>
+            <xocs:ref-last-lp>946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110303581226">
+            <xocs:ref-normalized-surname>HOFMEISTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1073</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1090</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110303533258">
+            <xocs:ref-normalized-surname>HOFMEISTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>904</xocs:ref-first-fp>
+            <xocs:ref-last-lp>912</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110246478840">
+            <xocs:ref-normalized-surname>HOWARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304000223">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304009923">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>414</xocs:ref-first-fp>
+            <xocs:ref-last-lp>422</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304018228">
+            <xocs:ref-normalized-surname>JOHANSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-last-lp>615</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304026149">
+            <xocs:ref-normalized-surname>LENNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304104627">
+            <xocs:ref-normalized-surname>MALICEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>140</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304250860">
+            <xocs:ref-normalized-surname>MALICEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3528</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304370152">
+            <xocs:ref-normalized-surname>ORME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1016</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1019</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110246596090">
+            <xocs:ref-normalized-surname>RDEVELOPMENTCORETEAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>RALANGUAGEENVIRONMENTFORSTATISTICALCOMPUTING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110247035039">
+            <xocs:ref-normalized-surname>ROBERTS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>189</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304378121">
+            <xocs:ref-normalized-surname>ROMANPALACIOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4211</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4217</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110247134126">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LICHENSGREATBRITAINIRELAND</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304386065">
+            <xocs:ref-normalized-surname>SPENCER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304454171">
+            <xocs:ref-normalized-surname>VANSCHALKWYK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110304557815">
+            <xocs:ref-normalized-surname>VONDRAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>126</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110247195829">
+            <xocs:ref-normalized-surname>VONDRAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf202201110247209066">
+            <xocs:ref-normalized-surname>WALKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HOFMEISTERX2022X109443</xocs:refkey3>
+         <xocs:refkey4ai>HOFMEISTERX2022X109443XJ</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-01-20T20:19:51Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Czechia: LE Tracking</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-01-20T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-01-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Authors. Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2026-04-28T13:55:12.228Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-id>TA\u010CR SS01010270</xocs:funding-id>
+            <xocs:funding-agency>Czech University of Life Sciences Prague</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100006206</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3077311</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>AV ČR</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Czech Academy of Sciences</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004240</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3077311</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Mark Powell and Pavla R\u016F\u017Ekov\u00E1 supported us during the field work. Ji\u0159\u00ED Kub\u00E1sek calculated habitat areas and ecotone lengths. The British Lichen Society generously provided their database. This study was supported by the long-term research development Project RVO 67985939 and project TA\u010CR SS01010270 . </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0006-3207(21)00495-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S000632072100495X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S000632072100495X</xocs:eid>
+         <xocs:doi>10.1016/j.biocon.2021.109443</xocs:doi>
+         <xocs:cid>271811</xocs:cid>
+         <xocs:timestamp>2022-07-28T21:46:31.4375Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>CZECHILETR</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/MAIN/application/pdf/2f9bf4be24cdd6109adcc2cefef6246e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>644131</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S000632072100495X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/PREVIEW/image/png/8af107304708e1c48905c424415903ff/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57017</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr3/DOWNSAMPLED/image/jpeg/934d42b7e91db795ae3837a93c79122a/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>155980</xocs:filesize>
+               <xocs:pixel-height>982</xocs:pixel-height>
+               <xocs:pixel-width>714</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr1/DOWNSAMPLED/image/jpeg/4fead76fdbb3beb38e5995d074a1189f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42526</xocs:filesize>
+               <xocs:pixel-height>503</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr2/DOWNSAMPLED/image/jpeg/9b6c8b01059d66c5bda8250782a5894d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23892</xocs:filesize>
+               <xocs:pixel-height>314</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr3/THUMBNAIL/image/gif/7a9242242bce74134c7d2e2388bb17e3/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7178</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>119</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr1/THUMBNAIL/image/gif/600b9fcc8e661f9dcfc881a730b98e8d/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6614</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>163</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr2/THUMBNAIL/image/gif/b4402cb4ea9b531902bd2af6ab7bcbb9/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6549</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>177</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr3/HIGHRES/image/jpeg/fe09df80cdd1d7621fe6b37a8e5c04e4/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1243210</xocs:filesize>
+               <xocs:pixel-height>4348</xocs:pixel-height>
+               <xocs:pixel-width>3160</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr1/HIGHRES/image/jpeg/af1080c70b56ca1030715fdd0837a744/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>151890</xocs:filesize>
+               <xocs:pixel-height>1337</xocs:pixel-height>
+               <xocs:pixel-width>1329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/gr2/HIGHRES/image/jpeg/ffe76621798e8f8a6aa2744591e91672/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>179995</xocs:filesize>
+               <xocs:pixel-height>1389</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S000632072100495X/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/d6c88e26beef0c174d39a78952c023ee/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>988729</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S000632072100495X-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>353412</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10SLP25N9T5/MAIN/application/pdf/5bd8b61287bd53695f181c748de63b05/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="sco" xml:lang="en">
+         <item-info>
+            <jid>BIOC</jid>
+            <aid>109443</aid>
+            <ce:article-number>109443</ce:article-number>
+            <ce:pii>S0006-3207(21)00495-X</ce:pii>
+            <ce:doi>10.1016/j.biocon.2021.109443</ce:doi>
+            <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Locations of the eleven studied hotspots in Great Britain; description of the sites is in Table S1.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S000632072100495X/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Linear regression between total species richness and number of frequent, casual and rare species, respectively, in eleven studied hotspots of epiphytic and epixylic lichens in Great Britain. For each regression, the coefficient of determination (R<ce:sup loc="post">2</ce:sup>) and symbol of significance at the level <ce:italic>p</ce:italic> &lt; 0.001 (***), <ce:italic>p</ce:italic> &lt; 0.01 (**) or <ce:italic>p</ce:italic> &lt; 0.05 (*) are displayed.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S000632072100495X/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">Dissimilarity in species composition partitioned to components of species turnover (Simpson dissimilarity) and nestedness for rare, casual, frequent and total epiphytic and epixylic lichen species recorded in eleven hotspots in Great Britain. The symbol *** indicates significance at the level <ce:italic>p</ce:italic> &lt; 0.001, ** <ce:italic>p</ce:italic> &lt; 0.01 and * <ce:italic>p</ce:italic> &lt; 0.05.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S000632072100495X/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Species richness and composition of epiphytic and epixylic lichen communities in the hotspots.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Table 1</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" rowsep="1" role="rowgroup">Site</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col2" rowsep="1" role="rowgroup">Species richness</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" role="colgroup" namest="col3" nameend="col6">Number of</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col7" rowsep="1" role="rowgroup">Mean Sørensen dissimilarity</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Unique species</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Rare species</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Casual species</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">Frequent species</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">1) Eilean</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">217</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">120</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5305</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">2) Glen Creran</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">235</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">111</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5260</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">3) Glen Loy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">227</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">101</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5227</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">4) Glen Stockdale</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">226</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">117</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5449</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">5) Nethy Bridge - birch</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">112</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.6174</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">6) Nethy Bridge - pine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">155</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5459</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">7) Nethy Bridge - mixed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">111</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.6549</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">8) New Forest beech</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">184</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5363</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">9) New Forest holly</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5347</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">10) New Forest oak</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">175</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">112</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5294</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">11) Rosslin</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">126</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">0.5767</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Short communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">High and balanced contribution of regional biodiversity hotspots to epiphytic and epixylic lichen species diversity in Great Britain</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S000632072100495X-aa4187d10dc5d4503600f31b35a34900">
+                  <ce:given-name>Jeňýk</ce:given-name>
+                  <ce:surname>Hofmeister</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S000632072100495X-551624d9623bd8855d99f0b1efac3566">
+                  <ce:indexed-name>Vondrak</ce:indexed-name>
+                  <ce:given-name>Jan</ce:given-name>
+                  <ce:surname>Vondrák</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0020">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0020" id="cf0025">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S000632072100495X-dd7ca5f36e835e2e9d560ba9d5abfb4f">
+                  <ce:given-name>Christopher</ce:given-name>
+                  <ce:surname>Ellis</ce:surname>
+                  <ce:cross-ref refid="af0025" id="cf0030">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S000632072100495X-eda3a96cd524338f10dad6f4158a927d">
+                  <ce:given-name>Brian</ce:given-name>
+                  <ce:surname>Coppins</ce:surname>
+                  <ce:cross-ref refid="af0025" id="cf0035">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S000632072100495X-66c6b5fa002dc460a6cc3ae45c0eb793">
+                  <ce:given-name>Neil</ce:given-name>
+                  <ce:surname>Sanderson</ce:surname>
+                  <ce:cross-ref refid="af0030" id="cf0040">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S000632072100495X-4ad4e1a6498fb680d379cd353a3962d5">
+                  <ce:indexed-name>Malicek</ce:indexed-name>
+                  <ce:given-name>Jiří</ce:given-name>
+                  <ce:surname>Malíček</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0045">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S000632072100495X-1e0979c87f54ec851d83bc09b034bc72">
+                  <ce:given-name>Zdeněk</ce:given-name>
+                  <ce:surname>Palice</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0050">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040" author-id="S000632072100495X-f4d5c8cf2e07b0ee69d3d0bfa0fe045c">
+                  <ce:given-name>Andy</ce:given-name>
+                  <ce:surname>Acton</ce:surname>
+                  <ce:cross-ref refid="af0035" id="cf0055">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0045" author-id="S000632072100495X-8a1dd3080a2366126d6bcc1da264d8b3">
+                  <ce:given-name>Stanislav</ce:given-name>
+                  <ce:surname>Svoboda</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0060">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0050" author-id="S000632072100495X-681f04428e29ef52c0de474b9fafa643">
+                  <ce:given-name>Rhiannon</ce:given-name>
+                  <ce:surname>Gloor</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0065">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S000632072100495X-da6c859614fe5687283c676417049d6a">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Czech University of Life Sciences Prague, Kamýcká 129, Suchdol, 165 00 Praha 6, Czech Republic</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Forest Ecology</sa:organization>
+                     <sa:organization>Faculty of Forestry and Wood Sciences</sa:organization>
+                     <sa:organization>Czech University of Life Sciences Prague</sa:organization>
+                     <sa:address-line>Kamýcká 129, Suchdol</sa:address-line>
+                     <sa:city>Praha 6</sa:city>
+                     <sa:postal-code>165 00</sa:postal-code>
+                     <sa:country>Czech Republic</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Czech University of Life Sciences Prague, Kamýcká 129, Suchdol, 165 00 Praha 6, Czech Republic</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S000632072100495X-129c947b880d143f41f2378ee41b66e1">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">Department of Biogeochemical and Hydrological Cycles, Global Change Research Institute, The Czech Academy of Sciences, Bělidla 986/4a, 603 00 Brno, Czech Republic</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Biogeochemical and Hydrological Cycles</sa:organization>
+                     <sa:organization>Global Change Research Institute</sa:organization>
+                     <sa:organization>The Czech Academy of Sciences</sa:organization>
+                     <sa:address-line>Bělidla 986/4a</sa:address-line>
+                     <sa:city>Brno</sa:city>
+                     <sa:postal-code>603 00</sa:postal-code>
+                     <sa:country>Czech Republic</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">Department of Biogeochemical and Hydrological Cycles, Global Change Research Institute, The Czech Academy of Sciences, Bělidla 986/4a, 603 00 Brno, Czech Republic</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S000632072100495X-0aac0547abd5399b2bf9eba68e998973">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0020">Institute of Botany, The Czech Academy of Sciences, Zámek 1, CZ-252 43 Průhonice, Czech Republic</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Botany</sa:organization>
+                     <sa:organization>The Czech Academy of Sciences</sa:organization>
+                     <sa:address-line>Zámek 1</sa:address-line>
+                     <sa:city>Průhonice</sa:city>
+                     <sa:postal-code>CZ-252 43</sa:postal-code>
+                     <sa:country>Czech Republic</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Institute of Botany, The Czech Academy of Sciences, Zámek 1, CZ-252 43 Průhonice, Czech Republic</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0020" affiliation-id="S000632072100495X-926de0c819450f17037672a0465f1159">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0025">Faculty of Science, University of South Bohemia, Branišovská 1760, CZ-370 05 České Budějovice, Czech Republic</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Science</sa:organization>
+                     <sa:organization>University of South Bohemia</sa:organization>
+                     <sa:address-line>Branišovská 1760</sa:address-line>
+                     <sa:city>České Budějovice</sa:city>
+                     <sa:postal-code>CZ-370 05</sa:postal-code>
+                     <sa:country>Czech Republic</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0020">Faculty of Science, University of South Bohemia, Branišovská 1760, CZ-370 05 České Budějovice, Czech Republic</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0025" affiliation-id="S000632072100495X-1453a3bbeb9e483bbca9d2601ba0959a">
+                  <ce:label>e</ce:label>
+                  <ce:textfn id="tn0030">Royal Botanic Garden Edinburgh, Arboretum Pl, Edinburgh EH3 5NZ, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Royal Botanic Garden Edinburgh</sa:organization>
+                     <sa:address-line>Arboretum Pl</sa:address-line>
+                     <sa:city>Edinburgh</sa:city>
+                     <sa:postal-code>EH3 5NZ</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0025">Royal Botanic Garden Edinburgh, Arboretum Pl, Edinburgh EH3 5NZ, U.K.</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0030" affiliation-id="S000632072100495X-3432053129757aa1140e0ae32cd24a5b">
+                  <ce:label>f</ce:label>
+                  <ce:textfn id="tn0035">Independent Researcher, Southampton, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Independent Researcher</sa:organization>
+                     <sa:city>Southampton</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0030">Independent Researcher, Southampton, U.K.</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0035" affiliation-id="S000632072100495X-ac5a61e857ea38275d2e414ccb6136fe">
+                  <ce:label>g</ce:label>
+                  <ce:textfn id="tn0040">Independent Researcher, Taynuilt, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Independent Researcher</sa:organization>
+                     <sa:city>Taynuilt</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0035">Independent Researcher, Taynuilt, U.K.</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author at: Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Czech University of Life Sciences Prague, Kamýcká 129, Suchdol, 165 00 Praha 6, Czech Republic</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Department of Forest Ecology</sa:organization>
+                     <sa:organization>Faculty of Forestry and Wood Sciences</sa:organization>
+                     <sa:organization>Czech University of Life Sciences Prague</sa:organization>
+                     <sa:address-line>Kamýcká 129, Suchdol</sa:address-line>
+                     <sa:city>Praha 6</sa:city>
+                     <sa:postal-code>165 00</sa:postal-code>
+                     <sa:country>Czech Republic</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="9" month="8" year="2021"/>
+            <ce:date-revised day="8" month="12" year="2021"/>
+            <ce:date-accepted day="27" month="12" year="2021"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0025" view="all">We surveyed epiphytic and epixylic lichens in eleven 1-hectare forest plots located in representative old-forest stands in four distinct regions of Great Britain that are well-known centres of lichen biodiversity. We aimed to analyse the patterns of lichen biodiversity in these important biodiversity hotspots from a British perspective. In total, we recorded 550 lichen species in 11 ha, i.e. 73% of the presently known British epiphytic and epixylic lichen flora. Species richness per site was regionally stratified and varied from 126 to 235 species. Although the presence of frequent species coincided with total species richness in the respective hotspot, rare species (those with &lt;50 records in Great Britain since 2000) were more balanced among hotspots and relatively independent of species richness. Species turnover contributed significantly and evenly to the species composition regardless of species richness so that hotspots did not have nested structure, typical for the hotspots in Central Europe. Although British hotspots generally shared more species within regions than between regions, geographic distances between regions did not correspond with the differences in species composition. The results document the importance and irreplaceability of the surveyed hotspots for lichen diversity in Great Britain, notwithstanding their current species richness and past depletion due to long-term acid deposition and habitat degradation.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Beta-diversity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Old-forests</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Rare species</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Species richness</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Species turnover</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Spatial patterns of species richness over regions is connected mainly with the richness of common species (<ce:cross-ref id="cf0070" refid="bb0090">Lennon et al., 2004</ce:cross-ref>). A higher contribution of rare species tends to be concentrated in geographically-limited areas with a higher abundance of specialist species (<ce:cross-ref id="cf0075" refid="bb0030">Clavel et al., 2011</ce:cross-ref>). The number of small-ranged species increased in the last decades due to ongoing human exploitation and landscape homogenization (<ce:cross-ref id="cf0080" refid="bb0070">Howard et al., 2020</ce:cross-ref>). A contraction of geographic ranges makes species prone to extinction, particularly with regard to anticipated climate change (<ce:cross-ref id="cf0085" refid="bb0120">Román-Palacios and Wiens, 2020</ce:cross-ref>). For effective biodiversity conservation, it is necessary to identify and then protect areas with a cumulative occurrence of rare species; this is simplified when communities of rare species of several different taxa occupy the same areas and habitats (<ce:cross-ref id="cf0090" refid="bb0065">Hofmeister et al., 2019</ce:cross-ref>). However, the spatial distribution of rare and threatened species is often scattered in different areas and habitats, even within a single taxonomic group (<ce:cross-ref id="cf0095" refid="bb0105">Orme et al., 2005</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0030" view="all">In the traditionally-inhabited European landscape, rare epiphytic and epixylic lichens are concentrated in habitats less influenced by forest management, habitat degradation and fragmentation, and areas with low air pollution (<ce:cross-ref id="cf0100" refid="bb0050">Hauck et al., 2013</ce:cross-ref>). For example, epiphytic lichens in Central Europe consist of only a subset of the species that are maintained in a few preserved hotspots with limited areas of hundreds or even tens of hectares (<ce:cross-ref id="cf0105" refid="bb0060">Hofmeister et al., 2016</ce:cross-ref>; <ce:cross-refs id="cf0110" refid="bb0095 bb0100">Malíček et al., 2018, 2019</ce:cross-refs>). Consequently, regional differences in species composition are controlled mainly by nestedness components of beta-diversity (<ce:cross-ref id="cf0115" refid="bb0015">Baselga, 2010</ce:cross-ref>), while species turnover is redundant over the broader landscape (<ce:cross-ref id="cf0120" refid="bb0060">Hofmeister et al., 2016</ce:cross-ref>; <ce:cross-ref id="cf0125" refid="bb0100">Malíček et al., 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0035" view="all">Great Britain has one of the world's best surveyed lichen floras (<ce:cross-ref id="cf0130" refid="bb0125">Smith et al., 2009</ce:cross-ref>). Large numbers of field records are held in the British Lichen Society Database, making it possible to obtain rather precise information about regional species lists. Due to this long-term research effort, we know that the harmful effects of deforestation and air pollution on epiphytic lichen communities in Great Britain, particularly in southern England, are among Europe's highest (<ce:cross-ref id="cf0135" refid="bb0045">Ellis et al., 2011</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we surveyed epiphytic and epixylic lichen communities in 11 hotspots distributed in four regions of Great Britain that are well known for extraordinarily high lichen biodiversity. Three sampled regions had multiple hotspots, in landscapes with locally-extensive old-growth woodland. Their origins lie predominately in traditional land use methods (e.g. extensive grazing by stock and game), but they have more checkered recent histories ranging from unchanged, incorporated into 19th century forestry use and subsequently abandoned, or being relative recently incorporated into non-intervention stands. The fourth, in south-eastern Scotland, is in a more highly-anthropogenic landscape (<ce:cross-ref id="cf0140" refid="bb0040">Ellis and Coppins, 2007</ce:cross-ref>). Based on the results, we aim to evaluate the contribution of i) regional hotspots to total species diversity ii) frequent and rare species to the overall species richness, and iii) turnover and nestedness components of beta-diversity to regional differences in species composition across Great Britain.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Methods</ce:section-title>
+                  <ce:para id="p0045" view="all">Epiphytic and epixylic lichen hotspots were selected within well-preserved forest stands in four British regions with high lichen diversity and variable climatic conditions: Scottish western coast with euoceanic climate (four plots), Scottish inland with rather continental climate (three plots), English New Forest with oceanic warm temperate climate (three plots), and a suburban area of Edinburgh, Scotland (one plot) (<ce:cross-ref id="cf0145" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>).</ce:para>
+                  <ce:para id="p0050" view="all">All forest stands correspond to ‘ancient woodland’ as defined by the UK's Ancient Woodland Inventory (<ce:cross-ref id="cf0150" refid="bb0115">Roberts et al., 1992</ce:cross-ref>; <ce:cross-ref id="cf0155" refid="bb0130">Spencer and Kirby, 1992</ce:cross-ref>); they are semi-natural woodlands that have existed continuously in the landscape since at least the mid-18th Century (Scotland: <ce:cross-ref id="cf0160" refid="bb0115">Roberts et al., 1992</ce:cross-ref>; <ce:cross-ref id="cf0165" refid="bb0150">Walker and Kirby, 1987</ce:cross-ref>) or the 17th Century (England: <ce:cross-ref id="cf0170" refid="bb0130">Spencer and Kirby, 1992</ce:cross-ref>), and presumably much longer, except for the birch-dominated site in Nethy Bridge which appears long-established with possible origins in the 19th Century.</ce:para>
+                  <ce:para id="p0055" view="all">Square 1-hectare plots were placed in structurally-diverse forest habitats (Appendix 1; Table S1) to meet criteria for local biodiversity hotspots according to the methodology designed for exploration of lichen biodiversity hotspots (<ce:cross-ref id="cf0175" refid="bb0145">Vondrák et al., 2018</ce:cross-ref>): (1) presence of a multi-layered canopy indicating a non-even-aged forests, (2) presence of over-mature, dying and dead trees with rough bark partly covered by mosses, (3) presence of both standing and lying dead wood, (4) assumption of the highest species diversity at the local scale based on preliminary survey, (5) the presence of small natural forest gaps, and (6) possibility to include canopy lichens (e.g. accessibility of the tree canopy, presence of fresh windthrows or at least fallen big branches with canopy lichens). Surveys were performed between June and December 2018 by at least three of seven expert lichenologists (for details see authorship) with a survey time of 6.5–10 h per site. The species records were complemented by three-class abundance estimates and the list of substrates (Table S2). Voucher specimens were collected for most of the recorded species and were deposited in Edinburgh – E (BC, CE), Průhonice - PRA (JV, ZP) and in the personal herbaria of AA, JM, NS. Numerous specimens, especially sterile crusts, were identified through thin layer chromatography (TLC). Some specimens were sequenced for nuclear ITS and/or mitochondrial SSU DNA barcode and identified by the standard nucleotide BLAST search.</ce:para>
+                  <ce:para id="p0060" view="all">We evaluated contributions of frequent, casual and rare epiphytic and epixylic lichen species at the plots from the perspective of Great Britain using all lichen species records since 2000 extracted from the British Lichen Society Database. We considered species frequent as those with &gt;500 records, casual as species with 50 to 500 records, and rare as species with &lt;50 records. We assessed changes in lichen species composition with geographic distance using Sørensen dissimilarity index as a measure of total beta-diversity (<ce:cross-ref id="cf0180" refid="bb0015">Baselga, 2010</ce:cross-ref>). Additionally, we computed two components of beta-diversity: i) Simpson dissimilarity which represents species composition turnover and ii) the remnant part of dissimilarity accounted for nestedness. Analyses were performed in <ce:cross-ref id="cf0185" refid="bb0110">R Development Core Team (2013)</ce:cross-ref>, using the package ʻbetapartʼ (<ce:cross-ref id="cf0190" refid="bb0020">Baselga et al., 2015</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0030">Results</ce:section-title>
+                  <ce:para id="p0065" view="all">Species richness in eleven 1-hectare plots differed considerably, ranging from 111 to 235 epiphytic and epixylic lichens (<ce:cross-ref id="cf0195" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>). In total, we recorded 550 lichen species; 73% of the known British lichen epiphytes (Table S2). Almost one-third of all recorded species (154) occurred in only one site and had a higher relative contribution in species-poor sites (<ce:cross-ref id="cf0200" refid="t0005">Table 1</ce:cross-ref>). Total species richness coincided with the number of frequent and casual species (<ce:italic>p</ce:italic> &lt; 0.05) in the respective sites while only weakly with the number of rare species (<ce:italic>p</ce:italic> &gt; 0.05, <ce:cross-ref id="cf0205" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>).</ce:para>
+                  <ce:para id="p0070" view="all">Species dissimilarity in lichen communities increased with the distance of sites up to approximately 100 km but remained high and relatively uniform for all pairs of sites with a distance above 100 km (<ce:cross-ref id="cf0210" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>). This pattern was unrelated to species rarity, but differences in species composition increased from frequent to rare species. When we decomposed species dissimilarity to its turnover and nestedness components, it revealed that processes underlying dissimilarity in lichen communities consisted almost exclusively of species turnover while nestedness contributed negligibly.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0035">Discussion</ce:section-title>
+                  <ce:para id="p0075" view="all">The decisive role of commonness for species richness seems to be a general rule governing local species richness of many taxa in various regions (<ce:cross-ref id="cf0215" refid="bb0090">Lennon et al., 2004</ce:cross-ref>; <ce:cross-ref id="cf0220" refid="bb0135">van Schalkwyk et al., 2019</ce:cross-ref>). Rare species might reflect overall species richness patterns if we accounted for their proportion in species richness (<ce:cross-ref id="cf0225" refid="bb0055">Heegaard et al., 2013</ce:cross-ref>). This pattern fits the spatial distribution of epiphytic lichens in traditionally-inhabited and highly-polluted regions in Western and Central Europe (<ce:cross-ref id="cf0230" refid="bb0050">Hauck et al., 2013</ce:cross-ref>; <ce:cross-ref id="cf0235" refid="bb0060">Hofmeister et al., 2016</ce:cross-ref>; <ce:cross-ref id="cf0240" refid="bb0100">Malíček et al., 2019</ce:cross-ref>). Central European epiphytic lichen communities have a strong nested structure dependent on species richness in which infrequent and rare species only occupy sites with a complete set of widespread generalists (<ce:cross-ref id="cf0245" refid="bb0095">Malíček et al., 2018</ce:cross-ref>; <ce:cross-ref id="cf0250" refid="bb0140">Vondrák et al., 2015</ce:cross-ref>). In Central Europe, the proportion of beta-diversity allocated to the turnover component is especially low for macrolichens and other desiccation-sensitive lichens (<ce:cross-ref id="cf0255" refid="bb0025">Bässler et al., 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0080" view="all">British epiphytic and epixylic lichen communities have also been impoverished by high industrial pollution and ancient woodland fragmentation and degradation (<ce:cross-ref id="cf0260" refid="bb0045">Ellis et al., 2011</ce:cross-ref>). Accordingly, here, total species richness was lower in hotspots located in small and isolated fragments of ancient forests in more industrial regions. However, in contrast with studies from Central Europe, the proportion of rare species was balanced along the richness gradient. Each hotspot comprised of 5 to 11% of species that were not recorded at another site, which, unexpectedly, peaked in species-poor sites. Since lichen species associations were relatively balanced between tree species in our study (Table S3), the observed differences in tree species composition should not simply explain the higher contribution of rare species in species-poor sites. These results convincingly document the irreplaceability of particular hotspots for total species richness in Great Britain, despite regional differences in past species impoverishment. It does not imply that preserving a small number of pre-eminent forest habitats is sufficient for conserving current lichen diversity. The unique species composition in particular hotspots makes a large part of the current lichen diversity highly prone to extinction that might be delayed for more than a century after habitat degradation (<ce:cross-refs id="cf0265" refid="bb0080 bb0085">Johansson et al., 2013a, 2013b</ce:cross-refs>). This risk is further accentuated by ongoing climate change, with more adverse effects expected in continental than oceanic climatic zones (<ce:cross-ref id="cf0270" refid="bb0035">Ellis, 2015</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0085" view="all">The extent to which hotspots within a given region host a unique set of species raises the challenge of understanding the scale necessary for effective dispersal (colonisation) among sites. While lichens can effectively disperse over landscapes (<ce:cross-ref id="cf0275" refid="bb0005">Anstett et al., 2013</ce:cross-ref>), seriously constrained colonisation ability has been confirmed for many species at the local- and landscape-scale (<ce:cross-ref id="cf0280" refid="bb0010">Bartels and Chen, 2012</ce:cross-ref>). Species with narrow niches and large propagules - which usually represent rare species - are often more dispersal-limited (<ce:cross-ref id="cf0285" refid="bb0075">Johansson et al., 2012</ce:cross-ref>).</ce:para>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="st0040">Conservation implications</ce:section-title>
+                     <ce:para id="p0090" view="all">The contribution of regional hotspots to total epiphytic and epixylic British lichen diversity was high and unexpectedly equal, notwithstanding probable differences in long-term human impact. However, this positive result might gradually diminish due to extinction debt in the case of small, isolated hotspots. Hence, effective conservation of rare species needs i) to protect current lichen diversity hotspots and ii) active support for the regeneration of other potentially suitable old-forest habitats across the British landscape.</ce:para>
+                     <ce:para id="p0095" view="all">Our findings document the potential importance and uniqueness of regional biodiversity hotspots, even though they are isolated in the long-term inhabited landscape. It seems that some communities can – at least partly and temporary - resist species extinction and associated species homogenization. Although we cannot offer any reliable explanation based in ecological theory for this evidence yet, this is a challenge encouraging further detection and protection of all more preserved habitats within cultural landscapes, including those overlooked due to low total species richness.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:section-title id="st0045">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0100" view="all">JH and JV developed the theoretical framework of the study, performed data analyses and wrote the manuscript. The contribution of the two first authors is equal. All authors (except for JH and RG) collected field data. CE and BC provided critical feedback that helped shape the research and the final draft. BC extracted data from British Lichen Society Database.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="st0050">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section role="acknowledgement" id="s0035" view="all">
+                  <ce:section-title id="st0055">Acknowledgement</ce:section-title>
+                  <ce:para id="p0110" view="all">Mark Powell and Pavla Růžková supported us during the field work. Jiří Kubásek calculated habitat areas and ecotone lengths. The British Lichen Society generously provided their database. This study was supported by the long-term research development Project <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/100013405" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">RVO</ce:grant-sponsor> 
+                     <ce:grant-number id="gtn0005" refid="gts0005">67985939</ce:grant-number> and project <ce:grant-sponsor id="gts1005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">TAČR</ce:grant-sponsor> 
+                     <ce:grant-number id="gtn1005" refid="gts1005">SS01010270</ce:grant-number>.</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="extended" id="s0040">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0060">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="ca0025">
+                              <ce:simple-para id="sp0035" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:alt-text role="short" id="al0025">Image 1</ce:alt-text>
+                           <ce:link id="lk0020" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple" xlink:href="pii:S000632072100495X/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section view="compact-standard" id="s0045">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0065">Supplementary data</ce:section-title>
+                  <ce:para id="p0120" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.biocon.2021.109443" id="ir0005" xlink:type="simple">https://doi.org/10.1016/j.biocon.2021.109443</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0070">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Anstett et al., 2013</ce:label>
+                     <sb:reference id="rf202201110246441287">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Anstett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>McMullin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-J.</ce:given-name>
+                                 <ce:surname>Fortin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dispersal analysis of three peltigera species based on landscape genetics data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mycology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                              <sb:last-page>195</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/21501203.2013.875955</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Anstett, D.N., O'Brien, H., Larsen, E.W., McMullin, R.T., Fortin, M.-J., 2013. Dispersal analysis of three Peltigera species based on landscape genetics data. Mycology 4, 187-195. doi:10.1080/21501203.2013.875955</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Bartels and Chen, 2012</ce:label>
+                     <sb:reference id="rf202201110246468527">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Bartels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.H.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanisms regulating epiphytic plant diversity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CRC. Crit. Rev. Plant Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                              <sb:last-page>400</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/07352689.2012.680349</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Bartels, S.F., Chen, H.Y.H.H., 2012. Mechanisms Regulating Epiphytic Plant Diversity. CRC. Crit. Rev. Plant Sci. 31, 391–400. doi:10.1080/07352689.2012.680349</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Baselga, 2010</ce:label>
+                     <sb:reference id="rf202201110249411339">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Baselga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Partitioning the turnover and nestedness components of beta diversity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Ecol. Biogeogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>134</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1466-8238.2009.00490.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">Baselga, A., 2010. Partitioning the turnover and nestedness components of beta diversity. Glob. Ecol. Biogeogr. 19, 134–143. doi:10.1111/j.1466-8238.2009.00490.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Baselga et al., 2015</ce:label>
+                     <sb:reference id="rf202201110249389729">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Baselga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Orme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Villeger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>De Bortoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Leprieur</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>R package ʻbetapartʼ, version 1.3</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Baselga, A., Orme, D., Villeger, S., De Bortoli, J., Leprieur, F., 2015. R package ʻbetapartʼ, version 1.3.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Bässler et al., 2016</ce:label>
+                     <sb:reference id="rf202201110249422969">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bässler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Cadotte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Beudert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Heibl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Blaschke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Bradtka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Langbehn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Werth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contrasting patterns of lichen functional diversity and species richness across an elevation gradient</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecography</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>689</sb:first-page>
+                              <sb:last-page>698</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/ecog.01789</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Bässler, C., Cadotte, M.W., Beudert, B., Heibl, C., Blaschke, M., Bradtka, J.H., Langbehn, T., Werth, S., Müller, J., 2016. Contrasting patterns of lichen functional diversity and species richness across an elevation gradient. Ecography 39, 689–698. doi:10.1111/ecog.01789</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Clavel et al., 2011</ce:label>
+                     <sb:reference id="rf202201110249430169">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Clavel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Julliard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Devictor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Worldwide decline of specialist species: toward a global functional homogenization?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>222</sb:first-page>
+                              <sb:last-page>228</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1890/080216</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Clavel, J., Julliard, R., Devictor, V., 2011. Worldwide decline of specialist species: Toward a global functional homogenization? Front. Ecol. Environ. 9, 222–228. doi:10.1890/080216</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Ellis, 2015</ce:label>
+                     <sb:reference id="rf202201110249446261">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ancient woodland indicators signal the climate change risk for dispersal-limited species</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Indic.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>106</sb:first-page>
+                              <sb:last-page>114</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2015.01.028</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Ellis, C.J., 2015. Ancient woodland indicators signal the climate change risk for dispersal-limited species. Ecol. Indic. 53, 106–114. doi:10.1016/j.ecolind.2015.01.028</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Ellis and Coppins, 2007</ce:label>
+                     <sb:reference id="rf202201110250079326">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Coppins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>19th century woodland structure controls stand-scale epiphyte diversity in present-day Scotland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Divers. Distrib.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                              <sb:last-page>91</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1366-9516.2006.00310.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">Ellis, C.J., Coppins, B.J., 2007. 19th century woodland structure controls stand-scale epiphyte diversity in present-day Scotland. Divers. Distrib. 13, 84-91. doi:10.1111/j.1366-9516.2006.00310.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Ellis et al., 2011</ce:label>
+                     <sb:reference id="rf202201110250081357">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yahr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Coppins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Archaeobotanical evidence for a massive loss of epiphyte species richness during industrialization in southern England</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. R. Soc. B Biol. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>278</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3482</sb:first-page>
+                              <sb:last-page>3489</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1098/rspb.2011.0063</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">Ellis, C.J., Yahr, R., Coppins, B.J., 2011. Archaeobotanical evidence for a massive loss of epiphyte species richness during industrialization in Southern England. Proc. R. Soc. B Biol. Sci. 278, 3482–3489. doi:10.1098/rspb.2011.0063</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Hauck et al., 2013</ce:label>
+                     <sb:reference id="rf202201110246471027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hauck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>de Bruyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Leuschner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dramatic diversity losses in epiphytic lichens in temperate broad-leaved forests during the last 150 years</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>136</sb:first-page>
+                              <sb:last-page>145</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.biocon.2012.06.015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">Hauck, M., Bruyn, U. de, Leuschner, C., 2013. Dramatic diversity losses in epiphytic lichens in temperate broad-leaved forests during the last 150 years. Biol. Conserv. 157, 136–145. doi:10.1016/j.biocon.2012.06.015</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Heegaard et al., 2013</ce:label>
+                     <sb:reference id="rf202201110303521708">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Heegaard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Gjerde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sætersdal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contribution of rare and common species to richness patterns at local scales</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecography</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>937</sb:first-page>
+                              <sb:last-page>946</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1600-0587.2013.00060.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">Heegaard, E., Gjerde, I., Sætersdal, M., 2013. Contribution of rare and common species to richness patterns at local scales. Ecography 36, 937–946. doi:10.1111/j.1600-0587.2013.00060.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>Hofmeister et al., 2016</ce:label>
+                     <sb:reference id="rf202201110303581226">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hofmeister</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hošek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Palice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Syrovátková</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Steinová</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Černajová</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Large beech (Fagus sylvatica) trees as ‘lifeboats’ for lichen diversity in central European forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biodivers. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1073</sb:first-page>
+                              <sb:last-page>1090</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10531-016-1106-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">Hofmeister, J., Hošek, J., Malíček, J., Palice, Z., Syrovátková, L., Steinová, J., Černajová, I., 2016. Large beech (Fagus sylvatica) trees as ‘lifeboats’ for lichen diversity in central European forests. Biodivers. Conserv. 25, 1073-1090. doi:10.1007/s10531-016-1106-x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Hofmeister et al., 2019</ce:label>
+                     <sb:reference id="rf202201110303533258">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hofmeister</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hošek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Brabec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hermy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dvořák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Fellner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Palice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tenčík</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Holá</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Novozámská</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kuras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Trnka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zedek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kašák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gabriš</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Sedláček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tajovský</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kadlec</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Shared affinity of various forest-dwelling taxa point to the continuity of temperate forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Indic.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>904</sb:first-page>
+                              <sb:last-page>912</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2019.01.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">Hofmeister, J., Hošek, J., Brabec, M., Hermy, M., Dvořák, D., Fellner, R., Malíček, J., Palice, Z., Tenčík, A., Holá, E., Novozámská, E., Kuras, T., Trnka, F., Zedek, M., Kašák, J., Gabriš, R., Sedláček, O., Tajovský, K., Kadlec, T., 2019. Shared affinity of various forest-dwelling taxa point to the continuity of temperate forests. Ecol. Indic. 101, 904–912. doi:10.1016/j.ecolind.2019.01.018</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>Howard et al., 2020</ce:label>
+                     <sb:reference id="rf202201110246478840">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Howard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Flather</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Stephens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A global assessment of the drivers of threatened terrestrial species richness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41467-020-14771-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">Howard, C., Flather, C.H., Stephens, P.A., 2020. A global assessment of the drivers of threatened terrestrial species richness. Nat. Commun. 11, 1–10. doi:10.1038/s41467-020-14771-6</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>Johansson et al., 2012</ce:label>
+                     <sb:reference id="rf202201110304000223">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ranius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Snäll</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epiphyte metapopulation dynamics are explained by species traits, connectivity, and patch dynamics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                              <sb:last-page>241</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1890/11-0760.1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">Johansson, V., Ranius, T., Snäll, T., 2012. Epiphyte metapopulation dynamics are explained by species traits, connectivity, and patch dynamics. Ecology 93, 235–241.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Johansson et al., 2013a</ce:label>
+                     <sb:reference id="rf202201110304009923">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ranius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Snäll</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epiphyte metapopulation persistence after drastic habitat decline and low tree regeneration: time-lags and effects of conservation actions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>414</sb:first-page>
+                              <sb:last-page>422</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/1365-2664.12049</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">Johansson, V., Ranius, T., Snäll, T., 2013a. Epiphyte metapopulation persistence after drastic habitat decline and low tree regeneration: Time-lags and effects of conservation actions. J. Appl. Ecol. 50, 414–422. doi:10.1111/1365-2664.12049</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Johansson et al., 2013b</ce:label>
+                     <sb:reference id="rf202201110304018228">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Snäll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ranius</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimates of connectivity reveal non-equilibrium epiphyte occurrence patterns almost 180 years after habitat decline</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oecologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>172</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                              <sb:last-page>615</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00442-012-2509-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0120">Johansson, V., Snäll, T., Ranius, T., 2013b. Estimates of connectivity reveal non-equilibrium epiphyte occurrence patterns almost 180 years after habitat decline. Oecologia 172, 607–615. doi:10.1007/s00442-012-2509-3</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Lennon et al., 2004</ce:label>
+                     <sb:reference id="rf202201110304026149">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Lennon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Koleff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.D.</ce:given-name>
+                                 <ce:surname>Greenwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Gaston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contribution of rarity and commonness to patterns of species richness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1046/j.1461-0248.2004.00548.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">Lennon, J.J., Koleff, P., Greenwood, J.J.D., Gaston, K.J., 2004. Contribution of rarity and commonness to patterns of species richness. Ecol. Lett. 7, 81–87. doi:10.1046/j.1461-0248.2004.00548.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Malíček et al., 2018</ce:label>
+                     <sb:reference id="rf202201110304104627">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Palice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Acton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bouda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sanderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vondrák</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Uholka primeval forest in the Ukrainian Carpathians – a keynote area for diversity of Forest lichens in Europe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Herzogia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>140</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.13158/099.031.0110</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">Malíček, J., Palice, Z., Acton, A., Berger, F., Bouda, F., Sanderson, N., Vondrák, J., 2018. Uholka Primeval Forest in the Ukrainian Carpathians – A Keynote Area for Diversity of Forest Lichens in Europe. Herzogia 31, 140–171. doi:10.13158/099.031.0110</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>Malíček et al., 2019</ce:label>
+                     <sb:reference id="rf202201110304250860">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Palice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vondrák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kostovčík</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Lenzová</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hofmeister</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lichens in old-growth and managed mountain spruce forests in the Czech Republic: assessment of biodiversity, functional traits and bioindicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biodivers. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3497</sb:first-page>
+                              <sb:last-page>3528</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10531-019-01834-4</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">Malíček, J., Palice, Z., Vondrák, J., Kostovčík, M., Lenzová, V., Hofmeister, J., 2019. Lichens in old-growth and managed mountain spruce forests in the Czech Republic: assessment of biodiversity, functional traits and bioindicators. Biodivers. Conserv. 28, 3497–3528. doi:10.1007/s10531-019-01834-4</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>Orme et al., 2005</ce:label>
+                     <sb:reference id="rf202201110304370152">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.D.L.</ce:given-name>
+                                 <ce:surname>Orme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Burgess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Eigenbrod</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pickup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Olson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Webster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Rasmussen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Ridgely</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Stattersfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Bennett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Blackburn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Gaston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.P.F.</ce:given-name>
+                                 <ce:surname>Owens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global hotspots of species richness are not congruent with endemism or threat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>436</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1016</sb:first-page>
+                              <sb:last-page>1019</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/nature03850</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0140">Orme, C.D.L., Davies, R.G., Burgess, M., Eigenbrod, F., Pickup, N., Olson, V.A., Webster, A.J., Ding, T.S., Rasmussen, P.C., Ridgely, R.S., Stattersfield, A.J., Bennett, P.M., Blackburn, T.M., Gaston, K.J., Owens, I.P.F., 2005. Global hotspots of species richness are not congruent with endemism or threat. Nature 436, 1016–1019. doi:10.1038/nature03850</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>R Development Core Team, 2013</ce:label>
+                     <sb:reference id="rf202201110246596090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>R Development Core Team</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>R: A language and environment for statistical computing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>R Foundation for Statistical Computing</sb:name>
+                                 <sb:location>Vienna</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0145">R Development Core Team, 2013. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Roberts et al., 1992</ce:label>
+                     <sb:reference id="rf202201110247035039">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Russel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Kirby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Regional variation in the origin, extent and composition of Scottish woodland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bot. J. Scotl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>189</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/03746600508684786</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0150">Roberts, A.J., Russel, C., Walker, G.J., Kirby, K.J., 1992. Regional variation in the origin, extent and composition of Scottish woodland. Bot. J. Scotl. 46, 167-189. doi:10.1080/03746600508684786</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>Román-Palacios and Wiens, 2020</ce:label>
+                     <sb:reference id="rf202201110304378121">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Román-Palacios</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Wiens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent responses to climate change reveal the drivers of species extinction and survival</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. U. S. A.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4211</sb:first-page>
+                              <sb:last-page>4217</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1073/pnas.1913007117</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0155">Román-Palacios, C., Wiens, J.J., 2020. Recent responses to climate change reveal the drivers of species extinction and survival. Proc. Natl. Acad. Sci. U. S. A. 117, 4211–4217. doi:10.1073/pnas.1913007117</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>Smith et al., 2009</ce:label>
+                     <sb:reference id="rf202201110247134126">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The lichens of Great Britain and Ireland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The British Lichen Society</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0160">Smith, C.W., et al., 2009. The Lichens of Great Britain and Ireland. The British Lichen Society, London.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>Spencer and Kirby, 1992</ce:label>
+                     <sb:reference id="rf202201110304386065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Spencer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Kirby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An inventory of ancient woodland for England and Wales</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Conserv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0006-3207(92)90929-H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0165">Spencer, J.W., Kirby, K.J., 1992. An inventory of ancient woodland for England and Wales. Biol. Conserv. 62, 77-93. doi:10.1016/0006-3207(92)90929-H</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>van Schalkwyk et al., 2019</ce:label>
+                     <sb:reference id="rf202201110304454171">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>van Schalkwyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Pryke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Samways</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contribution of common vs. rare species to species diversity patterns in conservation corridors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Indic.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolind.2019.05.014</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0170">van Schalkwyk, J., Pryke, J.S., Samways, M.J., 2019. Contribution of common vs. rare species to species diversity patterns in conservation corridors. Ecol. Indic. 104, 279–288. doi:10.1016/j.ecolind.2019.05.014</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>Vondrák et al., 2015</ce:label>
+                     <sb:reference id="rf202201110304557815">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vondrák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Šoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Pouska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epiphytic lichens of Stužica (E Slovakia) in the context of central European old-growth forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Herzogia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>126</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.13158/heia.28.1.2015.104</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0175">Vondrák, J., Malíček, J., Šoun, J., Pouska, V., 2015. Epiphytic lichens of Stužica (E Slovakia) in the context of Central European old-growth forests. Herzogia 28, 104–126. doi:10.13158/heia.28.1.2015.104</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>Vondrák et al., 2018</ce:label>
+                     <sb:reference id="rf202201110247195829">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vondrák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Malíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Palice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bouda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sanderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Acton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Pouska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kish</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Exploiting hotspots; effective determination of lichen diversity in a Carpathian virgin forest</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1371/journal.pone.0203540</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0180">Vondrák, J., Malíček, J., Palice, Z., Bouda, F., Berger, F., Sanderson, N., Acton, A., Pouska, V., Kish, R., 2018. Exploiting hotspots; effective determination of lichen diversity in a Carpathian virgin forest. PLoS One 13, 1–19. doi:10.1371/journal.pone.0203540</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>Walker and Kirby, 1987</ce:label>
+                     <sb:reference id="rf202201110247209066">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Kirby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An historical approach to woodland conservation in Scotland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scot. Forest.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>98</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0185">Walker, G.J., Kirby, K.J., 1987. An historical approach to woodland conservation in Scotland. Scot. Forest. 41, 87-98.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
